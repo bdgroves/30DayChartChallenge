@@ -1,16 +1,22 @@
-"""US Census Bureau: Washington State exports by country (2025) and by product (HS2)."""
+"""US Census Bureau state export pages for Washington: top countries and top products."""
 import sys; from pathlib import Path; sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "toolkit"))
 from fetching import *
-import json
+
+import re
 out = data_dir(__file__)
-base = "https://api.census.gov/data/timeseries/intltrade/exports/statehs"
-for name, q in {
-    "by_country": "get=CTY_CODE,CTY_NAME,ALL_VAL_YR&STATE=WA&time=2025-12",
-    "by_product": "get=E_COMMODITY,E_COMMODITY_SDESC,ALL_VAL_YR&STATE=WA&COMM_LVL=HS2&time=2025-12",
-    "country_product": "get=CTY_CODE,CTY_NAME,E_COMMODITY,E_COMMODITY_SDESC,ALL_VAL_YR&STATE=WA&COMM_LVL=HS2&time=2025-12",
-}.items():
+for u in ("https://www.census.gov/foreign-trade/statistics/state/data/wa.html",
+          "https://www.census.gov/foreign-trade/statistics/state/data/imports/wa.html"):
     try:
-        r = get(f"{base}?{q}", tries=2)
-        save_text(out / f"{name}.json", r.text)
+        save_text(out / ("imports_wa.html" if "imports" in u else "wa.html"), get(u, tries=2).text)
     except SystemExit as e:
-        print("skip", name, e)
+        print(e)
+html = (out / "wa.html").read_text()
+links = sorted(set(re.findall(r'href="([^"]+)"', html)))
+save_text(out / "wa_links.txt", "\n".join(links))
+for l in links:
+    if re.search(r"(wa|state).*\.(html|xls|xlsx|csv|txt)$", l, re.I) and "data" in l:
+        url = l if l.startswith("http") else "https://www.census.gov" + (l if l.startswith("/") else "/foreign-trade/statistics/state/data/" + l)
+        try:
+            save_text(out / ("x_" + url.split("/")[-1].replace(".html", ".htm")), get(url, tries=1).text)
+        except SystemExit as e:
+            print(e)
