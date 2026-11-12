@@ -1,0 +1,223 @@
+# #30DayChartChallenge 2027: the plan. TEMPLATE until the official prompts are out (usually in March).
+# When they are: copy this file to days.yml, put each day's prompt in `theme`, and fill in title and pitch.
+# status: idea → data (data in hand) → draft → done → posted
+# The build Action regenerates the day folders, READMEs, days.json and thumbnails from days.yml.
+# The categories below are the challenge's usual five weeks of six days; check them against the 2027 list.
+
+year: 2027
+start: 2027-04-01
+hashtag: "#30DayChartChallenge"
+author: Brooks Groves
+site: https://brooksgroves.com
+gallery: https://brooksgroves.com/30DayChartChallenge/2027/
+
+days:
+  - day: 1
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 2
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 3
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 4
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 5
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 6
+    theme: "TBA"            # Comparisons
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 7
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 8
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 9
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 10
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 11
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 12
+    theme: "TBA"            # Distributions
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 13
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 14
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 15
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 16
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 17
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 18
+    theme: "TBA"            # Relationships
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 19
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 20
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 21
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 22
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 23
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 24
+    theme: "TBA"            # Timeseries
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 25
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 26
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 27
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 28
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 29
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea
+
+  - day: 30
+    theme: "TBA"            # Uncertainties
+    title: "To come"
+    pitch: "Prompt not announced yet."
+    tools: [Python, matplotlib]
+    status: idea

@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# downloads stay out of the repo
+2027/day-*/data/
+.pixi/
+__pycache__/

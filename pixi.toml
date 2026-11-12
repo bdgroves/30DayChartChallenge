@@ -1,0 +1,31 @@
+[workspace]
+name = "30daychartchallenge-2027"
+description = "#30DayChartChallenge 2027: charts, toolkit and plan"
+authors = ["Brooks Groves"]
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-arm64"]
+
+[tasks]
+build = { cmd = "python toolkit/build.py", cwd = "2027" }
+render = { cmd = "python toolkit/render.py", cwd = "2027" }
+post-preview = { cmd = "python toolkit/post.py --preview all", cwd = "2027" }
+
+[dependencies]
+python = "3.12.*"
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+seaborn = "*"
+duckdb = "*"
+pyyaml = "*"
+python-tzdata = "*"
+pillow = "*"
+requests = "*"
+geopandas = "*"
+r-base = "*"
+r-ggplot2 = "*"
+r-dplyr = "*"
+r-readr = "*"
+r-yaml = "*"
+r-showtext = "*"
