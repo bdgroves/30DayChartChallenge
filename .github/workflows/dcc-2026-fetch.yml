@@ -1,0 +1,46 @@
+name: Fetch 2026 chart data
+
+# The cloud workspace that builds these charts can only reach GitHub, so each day's
+# fetch.py runs here and the data it writes (2026/day-NN-*/data/) is committed.
+on:
+  workflow_dispatch:
+    inputs:
+      days: {description: "Day numbers, comma separated (blank = every day with a fetch.py)", default: ""}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dcc-2026
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q requests pandas numpy rasterio
+      - name: Run fetch scripts
+        env: { DAYS: "${{ inputs.days }}" }
+        run: |
+          status=0
+          for f in 2026/day-*/fetch.py; do
+            n=$(echo "$f" | sed -E 's|.*/day-0?([0-9]+)-.*|\1|')
+            if [ -n "$DAYS" ] && ! echo ",$DAYS," | tr -d ' ' | grep -q ",$n,"; then continue; fi
+            echo "::group::day $n"
+            python "$f" 2>&1 | tail -40 || status=1
+            [ "${PIPESTATUS[0]}" = 0 ] || { echo "::warning::day $n fetch failed"; status=1; }
+            echo "::endgroup::"
+          done
+          echo "status=$status" >> "$GITHUB_ENV"
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 2026/day-*/data
+          git diff --staged --quiet && { echo "no new data"; exit 0; }
+          git commit -q -m "2026: fetched chart data [skip ci]"
+          git pull -q --rebase && git push -q

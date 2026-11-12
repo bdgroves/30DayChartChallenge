@@ -1,0 +1,991 @@
+{
+ "year": 2026,
+ "start": "2026-04-01",
+ "hashtag": "#30DayChartChallenge",
+ "author": "Brooks Groves",
+ "repo": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026",
+ "counts": {
+  "idea": 30,
+  "data": 0,
+  "draft": 0,
+  "done": 0,
+  "posted": 0
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2026-04-01",
+   "weekday": "Wed",
+   "theme": "Part-to-Whole",
+   "title": "1,190 caches, by kind",
+   "pitch": "Every geocache I've found since 2001, one square each, sorted by cache type. Mostly the classic film-canister kind, with a long tail of the odd ones.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "My geocache finds (brooksgroves.com data)"
+   ],
+   "data_links": [
+    {
+     "name": "My geocache finds (brooksgroves.com data)",
+     "url": "https://brooksgroves.com/maps.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-01-part-to-whole",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-01.html",
+   "hashtags": "",
+   "post_text": "Day 1 of #30DayChartChallenge · Part-to-Whole\n1,190 caches, by kind"
+  },
+  {
+   "day": 2,
+   "date": "2026-04-02",
+   "weekday": "Thu",
+   "theme": "Pictogram",
+   "title": "Twenty shows",
+   "pitch": "The last twenty concerts in my setlist log, one ticket for each show, grouped by artist.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "setlist.fm, via my concerts page"
+   ],
+   "data_links": [
+    {
+     "name": "setlist.fm, via my concerts page",
+     "url": "https://brooksgroves.com/concerts.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-02-pictogram",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-02.html",
+   "hashtags": "",
+   "post_text": "Day 2 of #30DayChartChallenge · Pictogram\nTwenty shows"
+  },
+  {
+   "day": 3,
+   "date": "2026-04-03",
+   "weekday": "Fri",
+   "theme": "Mosaic",
+   "title": "How the lights stay on",
+   "pitch": "Electricity by source in the countries I've lived in or visited. Each column is a country, as wide as the electricity it makes.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Our World in Data, energy data"
+   ],
+   "data_links": [
+    {
+     "name": "Our World in Data, energy data",
+     "url": "https://github.com/owid/energy-data"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-03-mosaic",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-03.html",
+   "hashtags": "",
+   "post_text": "Day 3 of #30DayChartChallenge · Mosaic\nHow the lights stay on"
+  },
+  {
+   "day": 4,
+   "date": "2026-04-04",
+   "weekday": "Sat",
+   "theme": "Slope",
+   "title": "Thirty years of carbon",
+   "pitch": "CO₂ per person in 1994, the year I finished at UNR, against 2024, for the places I've lived and traveled.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Our World in Data, CO₂ data"
+   ],
+   "data_links": [
+    {
+     "name": "Our World in Data, CO₂ data",
+     "url": "https://github.com/owid/co2-data"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-04-slope",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-04.html",
+   "hashtags": "",
+   "post_text": "Day 4 of #30DayChartChallenge · Slope\nThirty years of carbon"
+  },
+  {
+   "day": 5,
+   "date": "2026-04-05",
+   "weekday": "Sun",
+   "theme": "Experimental",
+   "title": "Tree rings",
+   "pitch": "Twenty-five years of geocaching drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "My geocache finds (brooksgroves.com data)"
+   ],
+   "data_links": [
+    {
+     "name": "My geocache finds (brooksgroves.com data)",
+     "url": "https://brooksgroves.com/maps.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-05-experimental",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-05.html",
+   "hashtags": "",
+   "post_text": "Day 5 of #30DayChartChallenge · Experimental\nTree rings"
+  },
+  {
+   "day": 6,
+   "date": "2026-04-06",
+   "weekday": "Mon",
+   "theme": "RSF Data",
+   "title": "Room to report",
+   "pitch": "Reporters Without Borders' 2026 press freedom scores for the countries I've visited, against the rest of the world.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "RSF World Press Freedom Index 2026"
+   ],
+   "data_links": [
+    {
+     "name": "RSF World Press Freedom Index 2026",
+     "url": "https://rsf.org/en/index"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-06-rsf-data",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-06.html",
+   "hashtags": "",
+   "post_text": "Day 6 of #30DayChartChallenge · RSF Data\nRoom to report"
+  },
+  {
+   "day": 7,
+   "date": "2026-04-07",
+   "weekday": "Tue",
+   "theme": "Multiscale",
+   "title": "Shaken, mostly gently",
+   "pitch": "Washington's earthquakes since 1970, from tremors no one feels to the Nisqually quake. Each step up in magnitude is about ten times rarer.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "USGS earthquake catalog"
+   ],
+   "data_links": [
+    {
+     "name": "USGS earthquake catalog",
+     "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-07-multiscale",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-07.html",
+   "hashtags": "",
+   "post_text": "Day 7 of #30DayChartChallenge · Multiscale\nShaken, mostly gently"
+  },
+  {
+   "day": 8,
+   "date": "2026-04-08",
+   "weekday": "Wed",
+   "theme": "Circular",
+   "title": "A Lakewood year",
+   "pitch": "A year of daily highs and lows in Lakewood, Washington, wrapped around a clock face of months.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Open-Meteo historical weather (ERA5)"
+   ],
+   "data_links": [
+    {
+     "name": "Open-Meteo historical weather (ERA5)",
+     "url": "https://open-meteo.com/en/docs/historical-weather-api"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-08-circular",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-08.html",
+   "hashtags": "",
+   "post_text": "Day 8 of #30DayChartChallenge · Circular\nA Lakewood year"
+  },
+  {
+   "day": 9,
+   "date": "2026-04-09",
+   "weekday": "Thu",
+   "theme": "Wealth",
+   "title": "What a house costs",
+   "pitch": "Typical home values in Washington's 39 counties, from Garfield to San Juan, ten years apart.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Zillow Home Value Index (ZHVI)"
+   ],
+   "data_links": [
+    {
+     "name": "Zillow Home Value Index (ZHVI)",
+     "url": "https://www.zillow.com/research/data/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-09-wealth",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-09.html",
+   "hashtags": "",
+   "post_text": "Day 9 of #30DayChartChallenge · Wealth\nWhat a house costs"
+  },
+  {
+   "day": 10,
+   "date": "2026-04-10",
+   "weekday": "Fri",
+   "theme": "Pop Culture",
+   "title": "How long the encore lasts",
+   "pitch": "How many songs each of my concerts ran, by artist. Some bands play a tight hour; some play all night.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "setlist.fm, via my concerts page"
+   ],
+   "data_links": [
+    {
+     "name": "setlist.fm, via my concerts page",
+     "url": "https://brooksgroves.com/concerts.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-10-pop-culture",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-10.html",
+   "hashtags": "",
+   "post_text": "Day 10 of #30DayChartChallenge · Pop Culture\nHow long the encore lasts"
+  },
+  {
+   "day": 11,
+   "date": "2026-04-11",
+   "weekday": "Sat",
+   "theme": "Physical",
+   "title": "How high the land stands",
+   "pitch": "The share of land at every elevation in three ranges I love: the Ruby Mountains, Yosemite's Sierra and Mount Rainier.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Copernicus GLO-30 elevation (AWS open data)"
+   ],
+   "data_links": [
+    {
+     "name": "Copernicus GLO-30 elevation (AWS open data)",
+     "url": "https://registry.opendata.aws/copernicus-dem/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-11-physical",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-11.html",
+   "hashtags": "",
+   "post_text": "Day 11 of #30DayChartChallenge · Physical\nHow high the land stands"
+  },
+  {
+   "day": 12,
+   "date": "2026-04-12",
+   "weekday": "Sun",
+   "theme": "FlowingData Theme",
+   "title": "The 81 squares",
+   "pitch": "Every cache I've found on the geocacher's 9×9 grid of difficulty and terrain, drawn in the spirit of Nathan Yau's FlowingData.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "My geocache finds (brooksgroves.com data)"
+   ],
+   "data_links": [
+    {
+     "name": "My geocache finds (brooksgroves.com data)",
+     "url": "https://brooksgroves.com/maps.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-12-flowingdata-theme",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-12.html",
+   "hashtags": "",
+   "post_text": "Day 12 of #30DayChartChallenge · FlowingData Theme\nThe 81 squares"
+  },
+  {
+   "day": 13,
+   "date": "2026-04-13",
+   "weekday": "Mon",
+   "theme": "Ecosystems",
+   "title": "Who eats whom in Lake Tahoe",
+   "pitch": "Lake Tahoe's food web, from algae to lake trout, including the mysis shrimp and the fish that people brought in.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "UC Davis Tahoe Environmental Research Center, State of the Lake"
+   ],
+   "data_links": [
+    {
+     "name": "UC Davis Tahoe Environmental Research Center, State of the Lake",
+     "url": "https://tahoe.ucdavis.edu/stateofthelake"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-13-ecosystems",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-13.html",
+   "hashtags": "",
+   "post_text": "Day 13 of #30DayChartChallenge · Ecosystems\nWho eats whom in Lake Tahoe"
+  },
+  {
+   "day": 14,
+   "date": "2026-04-14",
+   "weekday": "Tue",
+   "theme": "Trade",
+   "title": "Where Washington ships",
+   "pitch": "Washington State's exports by destination: planes, wheat, apples and more, heading mostly across the Pacific.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "US Census Bureau, international trade by state"
+   ],
+   "data_links": [
+    {
+     "name": "US Census Bureau, international trade by state",
+     "url": "https://www.census.gov/foreign-trade/statistics/state/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-14-trade",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-14.html",
+   "hashtags": "",
+   "post_text": "Day 14 of #30DayChartChallenge · Trade\nWhere Washington ships"
+  },
+  {
+   "day": 15,
+   "date": "2026-04-15",
+   "weekday": "Wed",
+   "theme": "Correlation",
+   "title": "Higher means snowier",
+   "pitch": "Washington's SNOTEL snow stations: the higher the station, the more water sits in the snow on April 1.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "NRCS SNOTEL (AWDB)"
+   ],
+   "data_links": [
+    {
+     "name": "NRCS SNOTEL (AWDB)",
+     "url": "https://www.nrcs.usda.gov/wps/portal/wcc/home/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-15-correlation",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-15.html",
+   "hashtags": "",
+   "post_text": "Day 15 of #30DayChartChallenge · Correlation\nHigher means snowier"
+  },
+  {
+   "day": 16,
+   "date": "2026-04-16",
+   "weekday": "Thu",
+   "theme": "Causation",
+   "title": "Why carbon warms",
+   "pitch": "Global temperature against atmospheric CO₂ since 1959. This correlation has a cause: the physics of the greenhouse effect, known since Tyndall and Arrhenius.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "NOAA Mauna Loa CO₂",
+    "NASA GISTEMP"
+   ],
+   "data_links": [
+    {
+     "name": "NOAA Mauna Loa CO₂",
+     "url": "https://gml.noaa.gov/ccgg/trends/"
+    },
+    {
+     "name": "NASA GISTEMP",
+     "url": "https://data.giss.nasa.gov/gistemp/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-16-causation",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-16.html",
+   "hashtags": "",
+   "post_text": "Day 16 of #30DayChartChallenge · Causation\nWhy carbon warms"
+  },
+  {
+   "day": 17,
+   "date": "2026-04-17",
+   "weekday": "Fri",
+   "theme": "Remake",
+   "title": "The 2024 bar chart, again",
+   "pitch": "My first chart-challenge try in 2024 was a ggplot remake of an Economist bar chart about lab infections. Here it is again, redone in this year's style.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "2024/experiments in this repo"
+   ],
+   "data_links": [
+    {
+     "name": "2024/experiments in this repo",
+     "url": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2024/experiments"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-17-remake",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-17.html",
+   "hashtags": "",
+   "post_text": "Day 17 of #30DayChartChallenge · Remake\nThe 2024 bar chart, again"
+  },
+  {
+   "day": 18,
+   "date": "2026-04-18",
+   "weekday": "Sat",
+   "theme": "UNICEF Data",
+   "title": "Fewer small graves",
+   "pitch": "Under-five mortality against income, 1990 to today, every country an arrow. Almost every arrow points down.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "UNICEF Data Warehouse",
+    "Our World in Data, GDP per capita"
+   ],
+   "data_links": [
+    {
+     "name": "UNICEF Data Warehouse",
+     "url": "https://data.unicef.org/"
+    },
+    {
+     "name": "Our World in Data, GDP per capita",
+     "url": "https://ourworldindata.org/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-18-unicef-data",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-18.html",
+   "hashtags": "",
+   "post_text": "Day 18 of #30DayChartChallenge · UNICEF Data\nFewer small graves"
+  },
+  {
+   "day": 19,
+   "date": "2026-04-19",
+   "weekday": "Sun",
+   "theme": "Evolution",
+   "title": "Washington's plates",
+   "pitch": "How Washington's family of special license plates grew, design by design, from Plate Hunter's data.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Plate Hunter (WA DOL data)"
+   ],
+   "data_links": [
+    {
+     "name": "Plate Hunter (WA DOL data)",
+     "url": "https://github.com/bdgroves/plate-hunter"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-19-evolution",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-19.html",
+   "hashtags": "",
+   "post_text": "Day 19 of #30DayChartChallenge · Evolution\nWashington's plates"
+  },
+  {
+   "day": 20,
+   "date": "2026-04-20",
+   "weekday": "Mon",
+   "theme": "Global Change",
+   "title": "The shrinking cap",
+   "pitch": "Arctic sea ice at its September low, every year since satellites started watching in 1979.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "NSIDC Sea Ice Index"
+   ],
+   "data_links": [
+    {
+     "name": "NSIDC Sea Ice Index",
+     "url": "https://nsidc.org/data/seaice_index"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-20-global-change",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-20.html",
+   "hashtags": "",
+   "post_text": "Day 20 of #30DayChartChallenge · Global Change\nThe shrinking cap"
+  },
+  {
+   "day": 21,
+   "date": "2026-04-21",
+   "weekday": "Tue",
+   "theme": "Historical",
+   "title": "Mono Lake, drained and saved",
+   "pitch": "Mono Lake's surface since the 1850s: the fall after Los Angeles started diverting its streams in 1941, and the slow climb since the 1994 decision.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Mono Lake Committee lake level data"
+   ],
+   "data_links": [
+    {
+     "name": "Mono Lake Committee lake level data",
+     "url": "https://www.monolake.org/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-21-historical",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-21.html",
+   "hashtags": "",
+   "post_text": "Day 21 of #30DayChartChallenge · Historical\nMono Lake, drained and saved"
+  },
+  {
+   "day": 22,
+   "date": "2026-04-22",
+   "weekday": "Wed",
+   "theme": "New Tool",
+   "title": "Lakewood's rain, day by day",
+   "pitch": "Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a tool I hadn't used before.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Open-Meteo historical weather (ERA5)"
+   ],
+   "data_links": [
+    {
+     "name": "Open-Meteo historical weather (ERA5)",
+     "url": "https://open-meteo.com/en/docs/historical-weather-api"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-22-new-tool",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-22.html",
+   "hashtags": "",
+   "post_text": "Day 22 of #30DayChartChallenge · New Tool\nLakewood's rain, day by day"
+  },
+  {
+   "day": 23,
+   "date": "2026-04-23",
+   "weekday": "Thu",
+   "theme": "Seasons",
+   "title": "Snow at Paradise",
+   "pitch": "Snow depth at Paradise on Mount Rainier, one line for each winter.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "NRCS SNOTEL Paradise (679)"
+   ],
+   "data_links": [
+    {
+     "name": "NRCS SNOTEL Paradise (679)",
+     "url": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=679"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-23-seasons",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-23.html",
+   "hashtags": "",
+   "post_text": "Day 23 of #30DayChartChallenge · Seasons\nSnow at Paradise"
+  },
+  {
+   "day": 24,
+   "date": "2026-04-24",
+   "weekday": "Fri",
+   "theme": "SCMP Theme",
+   "title": "Daylight, Lakewood and Hong Kong",
+   "pitch": "Hours of daylight through the year at 47° north and at 22° north, in the bold style of the South China Morning Post's graphics.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Computed from solar geometry (NOAA formulas)"
+   ],
+   "data_links": [
+    {
+     "name": "Computed from solar geometry (NOAA formulas)",
+     "url": "https://gml.noaa.gov/grad/solcalc/calcdetails.html"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-24-scmp-theme",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-24.html",
+   "hashtags": "",
+   "post_text": "Day 24 of #30DayChartChallenge · SCMP Theme\nDaylight, Lakewood and Hong Kong"
+  },
+  {
+   "day": 25,
+   "date": "2026-04-25",
+   "weekday": "Sat",
+   "theme": "Space",
+   "title": "Weighing other worlds",
+   "pitch": "Exoplanets with both a measured mass and radius, each with its error bars: the planets we know well and the ones we're guessing at.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "NASA Exoplanet Archive"
+   ],
+   "data_links": [
+    {
+     "name": "NASA Exoplanet Archive",
+     "url": "https://exoplanetarchive.ipac.caltech.edu/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-25-space",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-25.html",
+   "hashtags": "",
+   "post_text": "Day 25 of #30DayChartChallenge · Space\nWeighing other worlds"
+  },
+  {
+   "day": 26,
+   "date": "2026-04-26",
+   "weekday": "Sun",
+   "theme": "Trend",
+   "title": "Is Lakewood warming?",
+   "pitch": "Lakewood's yearly average temperature since 1950, with a trend line and how sure we can be of it.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Open-Meteo historical weather (ERA5)"
+   ],
+   "data_links": [
+    {
+     "name": "Open-Meteo historical weather (ERA5)",
+     "url": "https://open-meteo.com/en/docs/historical-weather-api"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-26-trend",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-26.html",
+   "hashtags": "",
+   "post_text": "Day 26 of #30DayChartChallenge · Trend\nIs Lakewood warming?"
+  },
+  {
+   "day": 27,
+   "date": "2026-04-27",
+   "weekday": "Mon",
+   "theme": "Animation",
+   "title": "A season of Blues",
+   "pitch": "Whitman men's soccer in 2026, game by game: the running goal difference to a Northwest Conference season and the NCAA tournament.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Whitman Athletics stats"
+   ],
+   "data_links": [
+    {
+     "name": "Whitman Athletics stats",
+     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2026"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-27-animation",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-27.html",
+   "hashtags": "",
+   "post_text": "Day 27 of #30DayChartChallenge · Animation\nA season of Blues"
+  },
+  {
+   "day": 28,
+   "date": "2026-04-28",
+   "weekday": "Tue",
+   "theme": "Modeling",
+   "title": "How far can Whitman go?",
+   "pitch": "A small model of the 2026 NCAA Division III tournament from Whitman's point of view: ten thousand simulated runs and how often each round is reached.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Whitman Athletics stats",
+    "NCAA DIII bracket"
+   ],
+   "data_links": [
+    {
+     "name": "Whitman Athletics stats",
+     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2026"
+    },
+    {
+     "name": "NCAA DIII bracket",
+     "url": "https://www.ncaa.com/brackets/soccer-men/d3/2026"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-28-modeling",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-28.html",
+   "hashtags": "",
+   "post_text": "Day 28 of #30DayChartChallenge · Modeling\nHow far can Whitman go?"
+  },
+  {
+   "day": 29,
+   "date": "2026-04-29",
+   "weekday": "Wed",
+   "theme": "Monochrome",
+   "title": "A normal year, in blue",
+   "pitch": "Lakewood's normal range of daily temperatures (1991–2020) and how 2025 wandered through it, all in one blue.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "Open-Meteo historical weather (ERA5)"
+   ],
+   "data_links": [
+    {
+     "name": "Open-Meteo historical weather (ERA5)",
+     "url": "https://open-meteo.com/en/docs/historical-weather-api"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-29-monochrome",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-29.html",
+   "hashtags": "",
+   "post_text": "Day 29 of #30DayChartChallenge · Monochrome\nA normal year, in blue"
+  },
+  {
+   "day": 30,
+   "date": "2026-04-30",
+   "weekday": "Thu",
+   "theme": "GHDx Data",
+   "title": "How long we live, give or take",
+   "pitch": "Life expectancy at birth from IHME's Global Burden of Disease, with its uncertainty, for the countries I've visited.",
+   "status": "idea",
+   "tools": [
+    "Python",
+    "matplotlib"
+   ],
+   "data": [
+    "IHME GHDx, Global Burden of Disease"
+   ],
+   "data_links": [
+    {
+     "name": "IHME GHDx, Global Burden of Disease",
+     "url": "https://ghdx.healthdata.org/"
+    }
+   ],
+   "deeper": [],
+   "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-30-ghdx-data",
+   "image": null,
+   "thumb": null,
+   "alt": "",
+   "post": null,
+   "link": null,
+   "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-30.html",
+   "hashtags": "",
+   "post_text": "Day 30 of #30DayChartChallenge · GHDx Data\nHow long we live, give or take"
+  }
+ ]
+}

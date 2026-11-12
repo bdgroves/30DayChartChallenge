@@ -1,0 +1,387 @@
+# #30DayChartChallenge 2026, made for fun in November 2026, after the fact.
+# One entry per day; the build Action makes the day folders, READMEs, days.json and thumbnails.
+# status: idea → data (data in hand) → draft → done. These are never posted (the post workflow is 2027 only).
+
+year: 2026
+start: 2026-04-01
+hashtag: "#30DayChartChallenge"
+author: Brooks Groves
+site: https://brooksgroves.com
+gallery: https://brooksgroves.com/30DayChartChallenge/2026/
+
+days:
+
+  # Comparisons
+  - day: 1
+    theme: Part-to-Whole
+    title: 1,190 caches, by kind
+    pitch: Every geocache I've found since 2001, one square each, sorted by cache type. Mostly the classic film-canister kind, with a long tail of the odd ones.
+    data:
+    - name: My geocache finds (brooksgroves.com data)
+      url: https://brooksgroves.com/maps.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 2
+    theme: Pictogram
+    title: Twenty shows
+    pitch: The last twenty concerts in my setlist log, one ticket for each show, grouped by artist.
+    data:
+    - name: setlist.fm, via my concerts page
+      url: https://brooksgroves.com/concerts.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 3
+    theme: Mosaic
+    title: How the lights stay on
+    pitch: Electricity by source in the countries I've lived in or visited. Each column is a country, as wide as the electricity it makes.
+    data:
+    - name: Our World in Data, energy data
+      url: https://github.com/owid/energy-data
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 4
+    theme: Slope
+    title: Thirty years of carbon
+    pitch: CO₂ per person in 1994, the year I finished at UNR, against 2024, for the places I've lived and traveled.
+    data:
+    - name: Our World in Data, CO₂ data
+      url: https://github.com/owid/co2-data
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 5
+    theme: Experimental
+    title: Tree rings
+    pitch: 'Twenty-five years of geocaching drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.'
+    data:
+    - name: My geocache finds (brooksgroves.com data)
+      url: https://brooksgroves.com/maps.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 6
+    theme: RSF Data
+    title: Room to report
+    pitch: Reporters Without Borders' 2026 press freedom scores for the countries I've visited, against the rest of the world.
+    data:
+    - name: RSF World Press Freedom Index 2026
+      url: https://rsf.org/en/index
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+
+  # Distributions
+  - day: 7
+    theme: Multiscale
+    title: Shaken, mostly gently
+    pitch: Washington's earthquakes since 1970, from tremors no one feels to the Nisqually quake. Each step up in magnitude is about ten times rarer.
+    data:
+    - name: USGS earthquake catalog
+      url: https://earthquake.usgs.gov/fdsnws/event/1/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 8
+    theme: Circular
+    title: A Lakewood year
+    pitch: A year of daily highs and lows in Lakewood, Washington, wrapped around a clock face of months.
+    data:
+    - name: Open-Meteo historical weather (ERA5)
+      url: https://open-meteo.com/en/docs/historical-weather-api
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 9
+    theme: Wealth
+    title: What a house costs
+    pitch: Typical home values in Washington's 39 counties, from Garfield to San Juan, ten years apart.
+    data:
+    - name: Zillow Home Value Index (ZHVI)
+      url: https://www.zillow.com/research/data/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 10
+    theme: Pop Culture
+    title: How long the encore lasts
+    pitch: How many songs each of my concerts ran, by artist. Some bands play a tight hour; some play all night.
+    data:
+    - name: setlist.fm, via my concerts page
+      url: https://brooksgroves.com/concerts.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 11
+    theme: Physical
+    title: How high the land stands
+    pitch: 'The share of land at every elevation in three ranges I love: the Ruby Mountains, Yosemite''s Sierra and Mount Rainier.'
+    data:
+    - name: Copernicus GLO-30 elevation (AWS open data)
+      url: https://registry.opendata.aws/copernicus-dem/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 12
+    theme: FlowingData Theme
+    title: The 81 squares
+    pitch: Every cache I've found on the geocacher's 9×9 grid of difficulty and terrain, drawn in the spirit of Nathan Yau's FlowingData.
+    data:
+    - name: My geocache finds (brooksgroves.com data)
+      url: https://brooksgroves.com/maps.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+
+  # Relationships
+  - day: 13
+    theme: Ecosystems
+    title: Who eats whom in Lake Tahoe
+    pitch: Lake Tahoe's food web, from algae to lake trout, including the mysis shrimp and the fish that people brought in.
+    data:
+    - name: UC Davis Tahoe Environmental Research Center, State of the Lake
+      url: https://tahoe.ucdavis.edu/stateofthelake
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 14
+    theme: Trade
+    title: Where Washington ships
+    pitch: 'Washington State''s exports by destination: planes, wheat, apples and more, heading mostly across the Pacific.'
+    data:
+    - name: US Census Bureau, international trade by state
+      url: https://www.census.gov/foreign-trade/statistics/state/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 15
+    theme: Correlation
+    title: Higher means snowier
+    pitch: 'Washington''s SNOTEL snow stations: the higher the station, the more water sits in the snow on April 1.'
+    data:
+    - name: NRCS SNOTEL (AWDB)
+      url: https://www.nrcs.usda.gov/wps/portal/wcc/home/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 16
+    theme: Causation
+    title: Why carbon warms
+    pitch: 'Global temperature against atmospheric CO₂ since 1959. This correlation has a cause: the physics of the greenhouse effect, known since Tyndall and Arrhenius.'
+    data:
+    - name: NOAA Mauna Loa CO₂
+      url: https://gml.noaa.gov/ccgg/trends/
+    - name: NASA GISTEMP
+      url: https://data.giss.nasa.gov/gistemp/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 17
+    theme: Remake
+    title: The 2024 bar chart, again
+    pitch: My first chart-challenge try in 2024 was a ggplot remake of an Economist bar chart about lab infections. Here it is again, redone in this year's style.
+    data:
+    - name: 2024/experiments in this repo
+      url: https://github.com/bdgroves/30DayChartChallenge/tree/main/2024/experiments
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 18
+    theme: UNICEF Data
+    title: Fewer small graves
+    pitch: Under-five mortality against income, 1990 to today, every country an arrow. Almost every arrow points down.
+    data:
+    - name: UNICEF Data Warehouse
+      url: https://data.unicef.org/
+    - name: Our World in Data, GDP per capita
+      url: https://ourworldindata.org/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+
+  # Timeseries
+  - day: 19
+    theme: Evolution
+    title: Washington's plates
+    pitch: How Washington's family of special license plates grew, design by design, from Plate Hunter's data.
+    data:
+    - name: Plate Hunter (WA DOL data)
+      url: https://github.com/bdgroves/plate-hunter
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 20
+    theme: Global Change
+    title: The shrinking cap
+    pitch: Arctic sea ice at its September low, every year since satellites started watching in 1979.
+    data:
+    - name: NSIDC Sea Ice Index
+      url: https://nsidc.org/data/seaice_index
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 21
+    theme: Historical
+    title: Mono Lake, drained and saved
+    pitch: 'Mono Lake''s surface since the 1850s: the fall after Los Angeles started diverting its streams in 1941, and the slow climb since the 1994 decision.'
+    data:
+    - name: Mono Lake Committee lake level data
+      url: https://www.monolake.org/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 22
+    theme: New Tool
+    title: Lakewood's rain, day by day
+    pitch: Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a tool I hadn't used before.
+    data:
+    - name: Open-Meteo historical weather (ERA5)
+      url: https://open-meteo.com/en/docs/historical-weather-api
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 23
+    theme: Seasons
+    title: Snow at Paradise
+    pitch: Snow depth at Paradise on Mount Rainier, one line for each winter.
+    data:
+    - name: NRCS SNOTEL Paradise (679)
+      url: https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=679
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 24
+    theme: SCMP Theme
+    title: Daylight, Lakewood and Hong Kong
+    pitch: Hours of daylight through the year at 47° north and at 22° north, in the bold style of the South China Morning Post's graphics.
+    data:
+    - name: Computed from solar geometry (NOAA formulas)
+      url: https://gml.noaa.gov/grad/solcalc/calcdetails.html
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+
+  # Uncertainties
+  - day: 25
+    theme: Space
+    title: Weighing other worlds
+    pitch: 'Exoplanets with both a measured mass and radius, each with its error bars: the planets we know well and the ones we''re guessing at.'
+    data:
+    - name: NASA Exoplanet Archive
+      url: https://exoplanetarchive.ipac.caltech.edu/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 26
+    theme: Trend
+    title: Is Lakewood warming?
+    pitch: Lakewood's yearly average temperature since 1950, with a trend line and how sure we can be of it.
+    data:
+    - name: Open-Meteo historical weather (ERA5)
+      url: https://open-meteo.com/en/docs/historical-weather-api
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 27
+    theme: Animation
+    title: A season of Blues
+    pitch: 'Whitman men''s soccer in 2026, game by game: the running goal difference to a Northwest Conference season and the NCAA tournament.'
+    data:
+    - name: Whitman Athletics stats
+      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2026
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 28
+    theme: Modeling
+    title: How far can Whitman go?
+    pitch: 'A small model of the 2026 NCAA Division III tournament from Whitman''s point of view: ten thousand simulated runs and how often each round is reached.'
+    data:
+    - name: Whitman Athletics stats
+      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2026
+    - name: NCAA DIII bracket
+      url: https://www.ncaa.com/brackets/soccer-men/d3/2026
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 29
+    theme: Monochrome
+    title: A normal year, in blue
+    pitch: Lakewood's normal range of daily temperatures (1991–2020) and how 2025 wandered through it, all in one blue.
+    data:
+    - name: Open-Meteo historical weather (ERA5)
+      url: https://open-meteo.com/en/docs/historical-weather-api
+    tools:
+    - Python
+    - matplotlib
+    status: idea
+
+  - day: 30
+    theme: GHDx Data
+    title: How long we live, give or take
+    pitch: Life expectancy at birth from IHME's Global Burden of Disease, with its uncertainty, for the countries I've visited.
+    data:
+    - name: IHME GHDx, Global Burden of Disease
+      url: https://ghdx.healthdata.org/
+    tools:
+    - Python
+    - matplotlib
+    status: idea
