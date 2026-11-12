@@ -1,15 +1,15 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 19 · Evolution
 
-**Sunday, April 19, 2026** · status: 💡 idea
+**Sunday, April 19, 2026** · status: ✅ done
 
-## Washington's plates
+## How America makes its power
 
-How Washington's family of special license plates grew, design by design, from Plate Hunter's data.
+Forty years of US electricity, 1985 to 2025, as shares of the whole. Coal's long fall, gas's rise, and wind and solar arriving.
 
 **Data**
 
-- [Plate Hunter (WA DOL data)](https://github.com/bdgroves/plate-hunter)
+- [Our World in Data, energy data (Ember, Energy Institute)](https://github.com/owid/energy-data)
 
 **Tools:** Python, matplotlib
 
@@ -17,7 +17,7 @@ How Washington's family of special license plates grew, design by design, from P
 
 ```
 Day 19 of #30DayChartChallenge · Evolution
-Washington's plates
+How America makes its power
 https://brooksgroves.com/30DayChartChallenge/2026/share/day-19.html
 ```
 

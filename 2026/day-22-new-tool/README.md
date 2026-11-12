@@ -1,11 +1,11 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 22 · New Tool
 
-**Wednesday, April 22, 2026** · status: 💡 idea
+**Wednesday, April 22, 2026** · status: ✅ done
 
-## Lakewood's rain, day by day
+## Lakewood's rain, week by week
 
-Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a tool I hadn't used before.
+Ten years of Lakewood rain as a calendar, week by week, made with Altair (Vega-Lite), a tool I hadn't used before.
 
 **Data**
 
@@ -17,7 +17,7 @@ Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a too
 
 ```
 Day 22 of #30DayChartChallenge · New Tool
-Lakewood's rain, day by day
+Lakewood's rain, week by week
 https://brooksgroves.com/30DayChartChallenge/2026/share/day-22.html
 ```
 

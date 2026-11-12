@@ -1,5 +1,5 @@
 <!-- table:start -->
-**18 of 30 done** · 💡 idea 12 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 18 · 📣 posted 0
+**24 of 30 done** · 💡 idea 6 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 24 · 📣 posted 0
 
 | Day | Date | Theme | Chart | Status |
 |---:|---|---|---|---|
@@ -21,12 +21,12 @@
 | 16 | Thu Apr 16 | Causation | [Why carbon warms](day-16-causation/) | ✅ done |
 | 17 | Fri Apr 17 | Remake | [The 2024 bar chart, again](day-17-remake/) | ✅ done |
 | 18 | Sat Apr 18 | UNICEF Data | [Fewer small graves](day-18-unicef-data/) | ✅ done |
-| 19 | Sun Apr 19 | Evolution | [Washington's plates](day-19-evolution/) | 💡 idea |
-| 20 | Mon Apr 20 | Global Change | [The shrinking cap](day-20-global-change/) | 💡 idea |
-| 21 | Tue Apr 21 | Historical | [Mono Lake, drained and saved](day-21-historical/) | 💡 idea |
-| 22 | Wed Apr 22 | New Tool | [Lakewood's rain, day by day](day-22-new-tool/) | 💡 idea |
-| 23 | Thu Apr 23 | Seasons | [Snow at Paradise](day-23-seasons/) | 💡 idea |
-| 24 | Fri Apr 24 | SCMP Theme | [Daylight, Lakewood and Hong Kong](day-24-scmp-theme/) | 💡 idea |
+| 19 | Sun Apr 19 | Evolution | [How America makes its power](day-19-evolution/) | ✅ done |
+| 20 | Mon Apr 20 | Global Change | [The shrinking cap](day-20-global-change/) | ✅ done |
+| 21 | Tue Apr 21 | Historical | [Mono Lake, drained and saved](day-21-historical/) | ✅ done |
+| 22 | Wed Apr 22 | New Tool | [Lakewood's rain, week by week](day-22-new-tool/) | ✅ done |
+| 23 | Thu Apr 23 | Seasons | [Snow at Paradise](day-23-seasons/) | ✅ done |
+| 24 | Fri Apr 24 | SCMP Theme | [Daylight, Lakewood and Hong Kong](day-24-scmp-theme/) | ✅ done |
 | 25 | Sat Apr 25 | Space | [Weighing other worlds](day-25-space/) | 💡 idea |
 | 26 | Sun Apr 26 | Trend | [Is Lakewood warming?](day-26-trend/) | 💡 idea |
 | 27 | Mon Apr 27 | Animation | [A season of Blues](day-27-animation/) | 💡 idea |

@@ -5,10 +5,10 @@
  "author": "Brooks Groves",
  "repo": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026",
  "counts": {
-  "idea": 12,
+  "idea": 6,
   "data": 0,
   "draft": 0,
-  "done": 18,
+  "done": 24,
   "posted": 0
  },
  "days": [
@@ -603,32 +603,32 @@
    "date": "2026-04-19",
    "weekday": "Sun",
    "theme": "Evolution",
-   "title": "Washington's plates",
-   "pitch": "How Washington's family of special license plates grew, design by design, from Plate Hunter's data.",
-   "status": "idea",
+   "title": "How America makes its power",
+   "pitch": "Forty years of US electricity, 1985 to 2025, as shares of the whole. Coal's long fall, gas's rise, and wind and solar arriving.",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
    ],
    "data": [
-    "Plate Hunter (WA DOL data)"
+    "Our World in Data, energy data (Ember, Energy Institute)"
    ],
    "data_links": [
     {
-     "name": "Plate Hunter (WA DOL data)",
-     "url": "https://github.com/bdgroves/plate-hunter"
+     "name": "Our World in Data, energy data (Ember, Energy Institute)",
+     "url": "https://github.com/owid/energy-data"
     }
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-19-evolution",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-19-evolution/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-19-evolution/out/thumb.jpg",
+   "alt": "A stacked area chart of US electricity shares from 1985 to 2025: coal 58% to 16%, gas 12% to 40%, nuclear about 17%, wind 10% and solar 9% in 2025.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-19.html",
    "hashtags": "",
-   "post_text": "Day 19 of #30DayChartChallenge · Evolution\nWashington's plates"
+   "post_text": "Day 19 of #30DayChartChallenge · Evolution\nHow America makes its power"
   },
   {
    "day": 20,
@@ -637,7 +637,7 @@
    "theme": "Global Change",
    "title": "The shrinking cap",
    "pitch": "Arctic sea ice at its September low, every year since satellites started watching in 1979.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -653,9 +653,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-20-global-change",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-20-global-change/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-20-global-change/out/thumb.jpg",
+   "alt": "Bars of September Arctic sea-ice extent from 1979 to 2026, falling from about 7.0 to 4.8 million km², with a record low of 3.57 in 2012.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-20.html",
@@ -669,7 +669,7 @@
    "theme": "Historical",
    "title": "Mono Lake, drained and saved",
    "pitch": "Mono Lake's surface since the 1850s: the fall after Los Angeles started diverting its streams in 1941, and the slow climb since the 1994 decision.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -685,9 +685,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-21-historical",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-21-historical/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-21-historical/out/thumb.jpg",
+   "alt": "A line of Mono Lake's October 1 level from 1850 to 2026: about 6,417 ft in 1941, a low of 6,372.3 ft in 1981, and 6,382.0 ft in 2026, below the 6,392 ft target.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-21.html",
@@ -699,9 +699,9 @@
    "date": "2026-04-22",
    "weekday": "Wed",
    "theme": "New Tool",
-   "title": "Lakewood's rain, day by day",
-   "pitch": "Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a tool I hadn't used before.",
-   "status": "idea",
+   "title": "Lakewood's rain, week by week",
+   "pitch": "Ten years of Lakewood rain as a calendar, week by week, made with Altair (Vega-Lite), a tool I hadn't used before.",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -717,14 +717,14 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-22-new-tool",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-22-new-tool/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-22-new-tool/out/thumb.jpg",
+   "alt": "A calendar heatmap of weekly rain in Lakewood, WA, from 2016 to 2025, ten rows of 53 weeks; summers are pale and the late-autumn weeks dark blue. Wettest year 2017, driest 2023.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-22.html",
    "hashtags": "",
-   "post_text": "Day 22 of #30DayChartChallenge · New Tool\nLakewood's rain, day by day"
+   "post_text": "Day 22 of #30DayChartChallenge · New Tool\nLakewood's rain, week by week"
   },
   {
    "day": 23,
@@ -733,7 +733,7 @@
    "theme": "Seasons",
    "title": "Snow at Paradise",
    "pitch": "Snow depth at Paradise on Mount Rainier, one line for each winter.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -749,9 +749,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-23-seasons",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-23-seasons/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-23-seasons/out/thumb.jpg",
+   "alt": "Lines of daily snow depth at Paradise for 20 winters; the deepest peaked at 228 inches in 2007–2008, the thinnest at 66 in 2014–2015.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-23.html",
@@ -765,7 +765,7 @@
    "theme": "SCMP Theme",
    "title": "Daylight, Lakewood and Hong Kong",
    "pitch": "Hours of daylight through the year at 47° north and at 22° north, in the bold style of the South China Morning Post's graphics.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -781,9 +781,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-24-scmp-theme",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-24-scmp-theme/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-24-scmp-theme/out/thumb.jpg",
+   "alt": "Two curves of daylight hours through the year: Lakewood from 8.5 to 15.9 hours, Hong Kong from 10.8 to 13.5; they cross near the equinoxes.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-24.html",

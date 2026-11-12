@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 21 · Historical
 
-**Tuesday, April 21, 2026** · status: 💡 idea
+**Tuesday, April 21, 2026** · status: ✅ done
 
 ## Mono Lake, drained and saved
 

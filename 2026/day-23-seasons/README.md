@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 23 · Seasons
 
-**Thursday, April 23, 2026** · status: 💡 idea
+**Thursday, April 23, 2026** · status: ✅ done
 
 ## Snow at Paradise
 

@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 20 · Global Change
 
-**Monday, April 20, 2026** · status: 💡 idea
+**Monday, April 20, 2026** · status: ✅ done
 
 ## The shrinking cap
 

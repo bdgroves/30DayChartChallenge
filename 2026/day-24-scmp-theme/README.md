@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 24 · SCMP Theme
 
-**Friday, April 24, 2026** · status: 💡 idea
+**Friday, April 24, 2026** · status: ✅ done
 
 ## Daylight, Lakewood and Hong Kong
 
