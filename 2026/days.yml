@@ -22,7 +22,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 2
     theme: Pictogram
@@ -34,7 +34,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 3
     theme: Mosaic
@@ -46,7 +46,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 4
     theme: Slope
@@ -58,7 +58,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 5
     theme: Experimental
@@ -70,7 +70,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 6
     theme: RSF Data
@@ -82,7 +82,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
 
   # Distributions
@@ -96,7 +96,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 8
     theme: Circular
@@ -108,7 +108,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 9
     theme: Wealth
@@ -120,7 +120,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 10
     theme: Pop Culture
@@ -132,7 +132,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 11
     theme: Physical
@@ -144,7 +144,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 12
     theme: FlowingData Theme
@@ -156,7 +156,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
 
   # Relationships

@@ -1,0 +1,1 @@
+A circular chart of 2025 daily temperatures in Lakewood, WA. The hottest day reached 92°F on July 16; the coldest night fell to 22°F on February 12.

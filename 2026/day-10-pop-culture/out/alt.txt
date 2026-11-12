@@ -1,0 +1,1 @@
+A dot histogram of 17 concerts by number of songs, from 4 (Presidents of the USA) to 28 (U2); median 19.

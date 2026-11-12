@@ -1,0 +1,1 @@
+A mosaic chart of electricity generation in 2024 for the countries Brooks has visited. The United States is the widest column at 4,391 TWh, then Canada 637, France 562, Germany 496, Indonesia 372, Mexico 355. Each column is split into coal, gas, oil, nuclear, hydro, wind, solar and bioenergy.
