@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 13 · Ecosystems
 
-**Monday, April 13, 2026** · status: 💡 idea
+**Monday, April 13, 2026** · status: ✅ done
 
 ## Who eats whom in Lake Tahoe
 

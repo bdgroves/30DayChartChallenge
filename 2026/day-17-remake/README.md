@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 17 · Remake
 
-**Friday, April 17, 2026** · status: 💡 idea
+**Friday, April 17, 2026** · status: ✅ done
 
 ## The 2024 bar chart, again
 

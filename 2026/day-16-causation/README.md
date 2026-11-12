@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 16 · Causation
 
-**Thursday, April 16, 2026** · status: 💡 idea
+**Thursday, April 16, 2026** · status: ✅ done
 
 ## Why carbon warms
 

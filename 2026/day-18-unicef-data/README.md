@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 18 · UNICEF Data
 
-**Saturday, April 18, 2026** · status: 💡 idea
+**Saturday, April 18, 2026** · status: ✅ done
 
 ## Fewer small graves
 

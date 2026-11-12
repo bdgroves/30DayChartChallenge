@@ -5,10 +5,10 @@
  "author": "Brooks Groves",
  "repo": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026",
  "counts": {
-  "idea": 18,
+  "idea": 12,
   "data": 0,
   "draft": 0,
-  "done": 12,
+  "done": 18,
   "posted": 0
  },
  "days": [
@@ -403,7 +403,7 @@
    "theme": "Ecosystems",
    "title": "Who eats whom in Lake Tahoe",
    "pitch": "Lake Tahoe's food web, from algae to lake trout, including the mysis shrimp and the fish that people brought in.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -419,9 +419,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-13-ecosystems",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-13-ecosystems/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-13-ecosystems/out/thumb.jpg",
+   "alt": "A food-web diagram of Lake Tahoe in four feeding levels, with native species in blue, introduced species in red and the extinct Lahontan cutthroat trout dashed. Lake trout sit at the top; mysis shrimp eat Daphnia and Bosmina.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-13.html",
@@ -433,32 +433,32 @@
    "date": "2026-04-14",
    "weekday": "Tue",
    "theme": "Trade",
-   "title": "Where Washington ships",
-   "pitch": "Washington State's exports by destination: planes, wheat, apples and more, heading mostly across the Pacific.",
-   "status": "idea",
+   "title": "Trading partners",
+   "pitch": "America's trade in goods in 2024 with the countries I've visited, what it sells against what it buys. A few partners carry most of it.",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
    ],
    "data": [
-    "US Census Bureau, international trade by state"
+    "UN Comtrade (public API)"
    ],
    "data_links": [
     {
-     "name": "US Census Bureau, international trade by state",
-     "url": "https://www.census.gov/foreign-trade/statistics/state/"
+     "name": "UN Comtrade (public API)",
+     "url": "https://comtradeplus.un.org/"
     }
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-14-trade",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-14-trade/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-14-trade/out/thumb.jpg",
+   "alt": "A log-log scatter of US exports versus imports in 2024 for 30 countries. Canada: exports $348B, imports $421B; Mexico $334B and $510B.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-14.html",
    "hashtags": "",
-   "post_text": "Day 14 of #30DayChartChallenge · Trade\nWhere Washington ships"
+   "post_text": "Day 14 of #30DayChartChallenge · Trade\nTrading partners"
   },
   {
    "day": 15,
@@ -467,7 +467,7 @@
    "theme": "Correlation",
    "title": "Higher means snowier",
    "pitch": "Washington's SNOTEL snow stations: the higher the station, the more water sits in the snow on April 1.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -483,9 +483,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-15-correlation",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-15-correlation/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-15-correlation/out/thumb.jpg",
+   "alt": "A scatter of 69 Washington SNOTEL stations, elevation versus median April 1 snow water equivalent, with fits for west (r 0.65) and east (r 0.32) of the Cascades; overall r 0.36.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-15.html",
@@ -499,7 +499,7 @@
    "theme": "Causation",
    "title": "Why carbon warms",
    "pitch": "Global temperature against atmospheric CO₂ since 1959. This correlation has a cause: the physics of the greenhouse effect, known since Tyndall and Arrhenius.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -520,9 +520,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-16-causation",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-16-causation/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-16-causation/out/thumb.jpg",
+   "alt": "A scatter of global temperature anomaly against Mauna Loa CO₂ from 1959 to 2025, colored by year, on a log CO₂ axis, falling along a straight line (r 0.96) from 316 ppm to 427 ppm.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-16.html",
@@ -536,7 +536,7 @@
    "theme": "Remake",
    "title": "The 2024 bar chart, again",
    "pitch": "My first chart-challenge try in 2024 was a ggplot remake of an Economist bar chart about lab infections. Here it is again, redone in this year's style.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -552,9 +552,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-17-remake",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-17-remake/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-17-remake/out/thumb.jpg",
+   "alt": "A dot chart of laboratory-acquired infections from 1970 to 2021 by pathogen: Brucella 54, Vaccinia 18, Salmonella 17, Tuberculosis 15, E. coli 11, Ebola 9, Dengue 7, Tularemia 7, Hantavirus 6.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-17.html",
@@ -568,7 +568,7 @@
    "theme": "UNICEF Data",
    "title": "Fewer small graves",
    "pitch": "Under-five mortality against income, 1990 to today, every country an arrow. Almost every arrow points down.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -589,9 +589,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-18-unicef-data",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-18-unicef-data/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-18-unicef-data/out/thumb.jpg",
+   "alt": "Arrows for 178 countries from 1990 to 2024 on log axes of GDP per person and under-five mortality; 99% point down. Ethiopia fell from 202 to 45 deaths per 1,000 births.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-18.html",
@@ -960,20 +960,25 @@
    "date": "2026-04-30",
    "weekday": "Thu",
    "theme": "GHDx Data",
-   "title": "How long we live, give or take",
-   "pitch": "Life expectancy at birth from IHME's Global Burden of Disease, with its uncertainty, for the countries I've visited.",
+   "title": "How long we'll live, give or take",
+   "pitch": "Life expectancy at birth in the countries I've visited, from 1950 to the UN's probabilistic projections for 2100, with their 80% and 95% ranges. Found through IHME's Global Health Data Exchange, which catalogs the UN World Population Prospects.",
    "status": "idea",
    "tools": [
     "Python",
     "matplotlib"
    ],
    "data": [
-    "IHME GHDx, Global Burden of Disease"
+    "UN World Population Prospects 2024 (wpp2024 R package)",
+    "GHDx catalog entry for the UN Population Division"
    ],
    "data_links": [
     {
-     "name": "IHME GHDx, Global Burden of Disease",
-     "url": "https://ghdx.healthdata.org/"
+     "name": "UN World Population Prospects 2024 (wpp2024 R package)",
+     "url": "https://github.com/PPgp/wpp2024"
+    },
+    {
+     "name": "GHDx catalog entry for the UN Population Division",
+     "url": "https://ghdx.healthdata.org/organizations/united-nations-population-division"
     }
    ],
    "deeper": [],
@@ -985,7 +990,7 @@
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-30.html",
    "hashtags": "",
-   "post_text": "Day 30 of #30DayChartChallenge · GHDx Data\nHow long we live, give or take"
+   "post_text": "Day 30 of #30DayChartChallenge · GHDx Data\nHow long we'll live, give or take"
   }
  ]
 }

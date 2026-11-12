@@ -1,5 +1,5 @@
 <!-- table:start -->
-**12 of 30 done** · 💡 idea 18 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 12 · 📣 posted 0
+**18 of 30 done** · 💡 idea 12 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 18 · 📣 posted 0
 
 | Day | Date | Theme | Chart | Status |
 |---:|---|---|---|---|
@@ -15,12 +15,12 @@
 | 10 | Fri Apr 10 | Pop Culture | [How long the encore lasts](day-10-pop-culture/) | ✅ done |
 | 11 | Sat Apr 11 | Physical | [How high the land stands](day-11-physical/) | ✅ done |
 | 12 | Sun Apr 12 | FlowingData Theme | [The 81 squares](day-12-flowingdata-theme/) | ✅ done |
-| 13 | Mon Apr 13 | Ecosystems | [Who eats whom in Lake Tahoe](day-13-ecosystems/) | 💡 idea |
-| 14 | Tue Apr 14 | Trade | [Where Washington ships](day-14-trade/) | 💡 idea |
-| 15 | Wed Apr 15 | Correlation | [Higher means snowier](day-15-correlation/) | 💡 idea |
-| 16 | Thu Apr 16 | Causation | [Why carbon warms](day-16-causation/) | 💡 idea |
-| 17 | Fri Apr 17 | Remake | [The 2024 bar chart, again](day-17-remake/) | 💡 idea |
-| 18 | Sat Apr 18 | UNICEF Data | [Fewer small graves](day-18-unicef-data/) | 💡 idea |
+| 13 | Mon Apr 13 | Ecosystems | [Who eats whom in Lake Tahoe](day-13-ecosystems/) | ✅ done |
+| 14 | Tue Apr 14 | Trade | [Trading partners](day-14-trade/) | ✅ done |
+| 15 | Wed Apr 15 | Correlation | [Higher means snowier](day-15-correlation/) | ✅ done |
+| 16 | Thu Apr 16 | Causation | [Why carbon warms](day-16-causation/) | ✅ done |
+| 17 | Fri Apr 17 | Remake | [The 2024 bar chart, again](day-17-remake/) | ✅ done |
+| 18 | Sat Apr 18 | UNICEF Data | [Fewer small graves](day-18-unicef-data/) | ✅ done |
 | 19 | Sun Apr 19 | Evolution | [Washington's plates](day-19-evolution/) | 💡 idea |
 | 20 | Mon Apr 20 | Global Change | [The shrinking cap](day-20-global-change/) | 💡 idea |
 | 21 | Tue Apr 21 | Historical | [Mono Lake, drained and saved](day-21-historical/) | 💡 idea |
@@ -32,5 +32,5 @@
 | 27 | Mon Apr 27 | Animation | [A season of Blues](day-27-animation/) | 💡 idea |
 | 28 | Tue Apr 28 | Modeling | [How far can Whitman go?](day-28-modeling/) | 💡 idea |
 | 29 | Wed Apr 29 | Monochrome | [A normal year, in blue](day-29-monochrome/) | 💡 idea |
-| 30 | Thu Apr 30 | GHDx Data | [How long we live, give or take](day-30-ghdx-data/) | 💡 idea |
+| 30 | Thu Apr 30 | GHDx Data | [How long we'll live, give or take](day-30-ghdx-data/) | 💡 idea |
 <!-- table:end -->

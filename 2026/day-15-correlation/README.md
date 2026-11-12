@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 15 · Correlation
 
-**Wednesday, April 15, 2026** · status: 💡 idea
+**Wednesday, April 15, 2026** · status: ✅ done
 
 ## Higher means snowier
 

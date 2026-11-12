@@ -1,15 +1,15 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 14 · Trade
 
-**Tuesday, April 14, 2026** · status: 💡 idea
+**Tuesday, April 14, 2026** · status: ✅ done
 
-## Where Washington ships
+## Trading partners
 
-Washington State's exports by destination: planes, wheat, apples and more, heading mostly across the Pacific.
+America's trade in goods in 2024 with the countries I've visited, what it sells against what it buys. A few partners carry most of it.
 
 **Data**
 
-- [US Census Bureau, international trade by state](https://www.census.gov/foreign-trade/statistics/state/)
+- [UN Comtrade (public API)](https://comtradeplus.un.org/)
 
 **Tools:** Python, matplotlib
 
@@ -17,7 +17,7 @@ Washington State's exports by destination: planes, wheat, apples and more, headi
 
 ```
 Day 14 of #30DayChartChallenge · Trade
-Where Washington ships
+Trading partners
 https://brooksgroves.com/30DayChartChallenge/2026/share/day-14.html
 ```
 
