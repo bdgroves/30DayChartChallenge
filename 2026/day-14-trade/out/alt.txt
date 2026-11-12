@@ -1,0 +1,1 @@
+A log-log scatter of US exports versus imports in 2024 for 30 countries. Canada: exports $348B, imports $421B; Mexico $334B and $510B.

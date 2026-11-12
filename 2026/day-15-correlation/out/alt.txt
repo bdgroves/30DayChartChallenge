@@ -1,0 +1,1 @@
+A scatter of 69 Washington SNOTEL stations, elevation versus median April 1 snow water equivalent, with fits for west (r 0.65) and east (r 0.32) of the Cascades; overall r 0.36.

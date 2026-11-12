@@ -1,0 +1,1 @@
+A scatter of global temperature anomaly against Mauna Loa CO₂ from 1959 to 2025, colored by year, on a log CO₂ axis, falling along a straight line (r 0.96) from 316 ppm to 427 ppm.

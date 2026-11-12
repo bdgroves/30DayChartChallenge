@@ -1,0 +1,31 @@
+predator,prey
+Lake trout,Kokanee salmon
+Lake trout,Tui chub
+Lake trout,Paiute sculpin
+Lake trout,Lahontan redside
+Lake trout,Mysis shrimp
+Lake trout,Signal crayfish
+Kokanee salmon,Daphnia & Bosmina
+Kokanee salmon,Copepods
+Mysis shrimp,Daphnia & Bosmina
+Mysis shrimp,Copepods
+Mysis shrimp,Phytoplankton
+Tui chub,Copepods
+Tui chub,Daphnia & Bosmina
+Tui chub,Benthic invertebrates
+Lahontan redside,Benthic invertebrates
+Lahontan redside,Copepods
+Paiute sculpin,Benthic invertebrates
+Tahoe sucker,Benthic invertebrates
+Tahoe sucker,Periphyton
+Rainbow trout,Benthic invertebrates
+Rainbow trout,Copepods
+Signal crayfish,Periphyton
+Signal crayfish,Benthic invertebrates
+Asian clam,Phytoplankton
+Daphnia & Bosmina,Phytoplankton
+Copepods,Phytoplankton
+Benthic invertebrates,Periphyton
+Lahontan cutthroat trout,Tui chub
+Lahontan cutthroat trout,Lahontan redside
+Lahontan cutthroat trout,Paiute sculpin
