@@ -1,0 +1,1 @@
+A stacked area chart of US electricity shares from 1985 to 2025: coal 58% to 16%, gas 12% to 40%, nuclear about 17%, wind 10% and solar 9% in 2025.

@@ -240,15 +240,15 @@ days:
   # Timeseries
   - day: 19
     theme: Evolution
-    title: Washington's plates
-    pitch: How Washington's family of special license plates grew, design by design, from Plate Hunter's data.
+    title: How America makes its power
+    pitch: Forty years of US electricity, 1985 to 2025, as shares of the whole. Coal's long fall, gas's rise, and wind and solar arriving.
     data:
-    - name: Plate Hunter (WA DOL data)
-      url: https://github.com/bdgroves/plate-hunter
+    - name: Our World in Data, energy data (Ember, Energy Institute)
+      url: https://github.com/owid/energy-data
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 20
     theme: Global Change
@@ -260,7 +260,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 21
     theme: Historical
@@ -272,19 +272,19 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 22
     theme: New Tool
-    title: Lakewood's rain, day by day
-    pitch: Every day of rain in Lakewood as a calendar, made with Altair (Vega-Lite), a tool I hadn't used before.
+    title: Lakewood's rain, week by week
+    pitch: Ten years of Lakewood rain as a calendar, week by week, made with Altair (Vega-Lite), a tool I hadn't used before.
     data:
     - name: Open-Meteo historical weather (ERA5)
       url: https://open-meteo.com/en/docs/historical-weather-api
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 23
     theme: Seasons
@@ -296,7 +296,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 24
     theme: SCMP Theme
@@ -308,7 +308,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
 
   # Uncertainties
