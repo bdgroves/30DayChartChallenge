@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 30 · GHDx Data
 
-**Thursday, April 30, 2026** · status: 💡 idea
+**Thursday, April 30, 2026** · status: ✅ done
 
 ## How long we'll live, give or take
 

@@ -5,10 +5,10 @@
  "author": "Brooks Groves",
  "repo": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026",
  "counts": {
-  "idea": 6,
+  "idea": 0,
   "data": 0,
   "draft": 0,
-  "done": 24,
+  "done": 30,
   "posted": 0
  },
  "days": [
@@ -704,7 +704,8 @@
    "status": "done",
    "tools": [
     "Python",
-    "matplotlib"
+    "Altair",
+    "vl-convert"
    ],
    "data": [
     "Open-Meteo historical weather (ERA5)"
@@ -797,7 +798,7 @@
    "theme": "Space",
    "title": "Weighing other worlds",
    "pitch": "Exoplanets with both a measured mass and radius, each with its error bars: the planets we know well and the ones we're guessing at.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -813,9 +814,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-25-space",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-25-space/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-25-space/out/thumb.jpg",
+   "alt": "A log-log scatter of 1,582 exoplanets' mass against radius, each with error bars; 1,057 have masses known to within 20%. The solar system's planets are marked in red.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-25.html",
@@ -829,7 +830,7 @@
    "theme": "Trend",
    "title": "Is Lakewood warming?",
    "pitch": "Lakewood's yearly average temperature since 1950, with a trend line and how sure we can be of it.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -845,9 +846,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-26-trend",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-26-trend/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-26-trend/out/thumb.jpg",
+   "alt": "Yearly average temperatures in Lakewood from 1950 to 2025 with a trend of +0.25 °F per decade (95% CI 0.15 to 0.36) and shaded confidence and prediction bands.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-26.html",
@@ -860,8 +861,8 @@
    "weekday": "Mon",
    "theme": "Animation",
    "title": "A season of Blues",
-   "pitch": "Whitman men's soccer in 2026, game by game: the running goal difference to a Northwest Conference season and the NCAA tournament.",
-   "status": "idea",
+   "pitch": "Whitman men's soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -877,9 +878,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-27-animation",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-27-animation/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-27-animation/out/thumb.jpg",
+   "alt": "Bars of goal difference for Whitman's 20 games in 2026 with a rising running total to +24; record 14-3-3, goals 40-16.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-27.html",
@@ -893,7 +894,7 @@
    "theme": "Modeling",
    "title": "How far can Whitman go?",
    "pitch": "A small model of the 2026 NCAA Division III tournament from Whitman's point of view: ten thousand simulated runs and how often each round is reached.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -914,9 +915,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-28-modeling",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-28-modeling/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-28-modeling/out/thumb.jpg",
+   "alt": "A bar chart of modeled chances for Whitman in the 2026 NCAA Division III tournament: win round 1 63%; win round 2 36%; win round 3 18%; reach final four 9%; reach final 4%; win it all 2%, with 80% whiskers.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-28.html",
@@ -930,7 +931,7 @@
    "theme": "Monochrome",
    "title": "A normal year, in blue",
    "pitch": "Lakewood's normal range of daily temperatures (1991–2020) and how 2025 wandered through it, all in one blue.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -946,9 +947,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-29-monochrome",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-29-monochrome/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-29-monochrome/out/thumb.jpg",
+   "alt": "Nested blue bands of normal daily high temperatures in Lakewood for 1991–2020 with the 2025 daily highs as a line; 70 days above the 90th percentile and 20 below the 10th; 20 above the 1991–2020 range.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-29.html",
@@ -962,7 +963,7 @@
    "theme": "GHDx Data",
    "title": "How long we'll live, give or take",
    "pitch": "Life expectancy at birth in the countries I've visited, from 1950 to the UN's probabilistic projections for 2100, with their 80% and 95% ranges. Found through IHME's Global Health Data Exchange, which catalogs the UN World Population Prospects.",
-   "status": "idea",
+   "status": "done",
    "tools": [
     "Python",
     "matplotlib"
@@ -983,9 +984,9 @@
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-30-ghdx-data",
-   "image": null,
-   "thumb": null,
-   "alt": "",
+   "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-30-ghdx-data/out/chart.png",
+   "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-30-ghdx-data/out/thumb.jpg",
+   "alt": "Nine small charts of life expectancy from 1950 to 2100 with projection bands for the United States, South Africa, Namibia, Ethiopia, Zimbabwe, Mexico, Indonesia, Italy and Australia, against the world in grey.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-30.html",

@@ -11,7 +11,7 @@ Ten years of Lakewood rain as a calendar, week by week, made with Altair (Vega-L
 
 - [Open-Meteo historical weather (ERA5)](https://open-meteo.com/en/docs/historical-weather-api)
 
-**Tools:** Python, matplotlib
+**Tools:** Python, Altair, vl-convert
 
 **Post it** (X, Bluesky, LinkedIn: paste this, the link shows the chart card)
 

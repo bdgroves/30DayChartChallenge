@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 29 · Monochrome
 
-**Wednesday, April 29, 2026** · status: 💡 idea
+**Wednesday, April 29, 2026** · status: ✅ done
 
 ## A normal year, in blue
 

@@ -13,6 +13,15 @@ For a new Claude chat picking this up. `git pull --rebase` first.
   A scheduled task checks for them each Monday in March 2027.
 - `2024/` and `Death_Valley_Ecosystems.ipynb` are older experiments; leave them.
 
+## 2026 (done Nov 12, 2026, for fun, after the fact)
+- `2026/`: all 30 official 2026 prompts made, status done, never posted (posting is 2027 only).
+- Each day: `make.py` (house style via `2026/toolkit/dcc.py`), data in `data/`. Days needing the web have a `fetch.py`
+  run by `dcc-2026-fetch.yml` on Actions (this workspace can only reach GitHub).
+- Substitutions, honestly labeled on the charts: day 14 uses UN Comtrade (Census API now needs a key); day 30 uses UN WPP
+  2024 via the wpp2024 R package, catalogued in GHDx (IHME's own GBD files need a login); day 19 is US electricity because
+  Plate Hunter's WA data lists 30 plates at a placeholder year of 1996.
+- Day 27 also writes `out/animation.gif`. Day 28 is a toy model written before Whitman's first NCAA game (Nov 14).
+
 ## To do
 - [ ] When the prompts are out: `days.template.yml` → `days.yml` with the prompts, then plan with Brooks.
 - [ ] Posting keys in this repo's secrets before April 1.

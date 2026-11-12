@@ -283,7 +283,8 @@ days:
       url: https://open-meteo.com/en/docs/historical-weather-api
     tools:
     - Python
-    - matplotlib
+    - Altair
+    - vl-convert
     status: done
 
   - day: 23
@@ -322,7 +323,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 26
     theme: Trend
@@ -334,19 +335,19 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 27
     theme: Animation
     title: A season of Blues
-    pitch: 'Whitman men''s soccer in 2026, game by game: the running goal difference to a Northwest Conference season and the NCAA tournament.'
+    pitch: 'Whitman men''s soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.'
     data:
     - name: Whitman Athletics stats
       url: https://athletics.whitman.edu/sports/mens-soccer/stats/2026
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 28
     theme: Modeling
@@ -360,7 +361,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 29
     theme: Monochrome
@@ -372,7 +373,7 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done
 
   - day: 30
     theme: GHDx Data
@@ -386,4 +387,4 @@ days:
     tools:
     - Python
     - matplotlib
-    status: idea
+    status: done

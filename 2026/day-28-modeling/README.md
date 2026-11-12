@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 28 · Modeling
 
-**Tuesday, April 28, 2026** · status: 💡 idea
+**Tuesday, April 28, 2026** · status: ✅ done
 
 ## How far can Whitman go?
 

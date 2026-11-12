@@ -29,3 +29,8 @@ r-dplyr = "*"
 r-readr = "*"
 r-yaml = "*"
 r-showtext = "*"
+
+[pypi-dependencies]
+altair = "*"
+vl-convert-python = "*"
+shapely = "*"

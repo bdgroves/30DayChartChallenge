@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 25 · Space
 
-**Saturday, April 25, 2026** · status: 💡 idea
+**Saturday, April 25, 2026** · status: ✅ done
 
 ## Weighing other worlds
 

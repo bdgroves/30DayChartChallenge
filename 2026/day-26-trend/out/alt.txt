@@ -1,0 +1,1 @@
+Yearly average temperatures in Lakewood from 1950 to 2025 with a trend of +0.25 °F per decade (95% CI 0.15 to 0.36) and shaded confidence and prediction bands.

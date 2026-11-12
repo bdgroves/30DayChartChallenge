@@ -1,0 +1,1 @@
+A log-log scatter of 1,582 exoplanets' mass against radius, each with error bars; 1,057 have masses known to within 20%. The solar system's planets are marked in red.

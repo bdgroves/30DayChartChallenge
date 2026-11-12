@@ -1,5 +1,5 @@
 <!-- table:start -->
-**24 of 30 done** · 💡 idea 6 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 24 · 📣 posted 0
+**30 of 30 done** · 💡 idea 0 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 30 · 📣 posted 0
 
 | Day | Date | Theme | Chart | Status |
 |---:|---|---|---|---|
@@ -27,10 +27,10 @@
 | 22 | Wed Apr 22 | New Tool | [Lakewood's rain, week by week](day-22-new-tool/) | ✅ done |
 | 23 | Thu Apr 23 | Seasons | [Snow at Paradise](day-23-seasons/) | ✅ done |
 | 24 | Fri Apr 24 | SCMP Theme | [Daylight, Lakewood and Hong Kong](day-24-scmp-theme/) | ✅ done |
-| 25 | Sat Apr 25 | Space | [Weighing other worlds](day-25-space/) | 💡 idea |
-| 26 | Sun Apr 26 | Trend | [Is Lakewood warming?](day-26-trend/) | 💡 idea |
-| 27 | Mon Apr 27 | Animation | [A season of Blues](day-27-animation/) | 💡 idea |
-| 28 | Tue Apr 28 | Modeling | [How far can Whitman go?](day-28-modeling/) | 💡 idea |
-| 29 | Wed Apr 29 | Monochrome | [A normal year, in blue](day-29-monochrome/) | 💡 idea |
-| 30 | Thu Apr 30 | GHDx Data | [How long we'll live, give or take](day-30-ghdx-data/) | 💡 idea |
+| 25 | Sat Apr 25 | Space | [Weighing other worlds](day-25-space/) | ✅ done |
+| 26 | Sun Apr 26 | Trend | [Is Lakewood warming?](day-26-trend/) | ✅ done |
+| 27 | Mon Apr 27 | Animation | [A season of Blues](day-27-animation/) | ✅ done |
+| 28 | Tue Apr 28 | Modeling | [How far can Whitman go?](day-28-modeling/) | ✅ done |
+| 29 | Wed Apr 29 | Monochrome | [A normal year, in blue](day-29-monochrome/) | ✅ done |
+| 30 | Thu Apr 30 | GHDx Data | [How long we'll live, give or take](day-30-ghdx-data/) | ✅ done |
 <!-- table:end -->

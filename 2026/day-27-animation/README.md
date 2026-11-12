@@ -1,11 +1,11 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 27 · Animation
 
-**Monday, April 27, 2026** · status: 💡 idea
+**Monday, April 27, 2026** · status: ✅ done
 
 ## A season of Blues
 
-Whitman men's soccer in 2026, game by game: the running goal difference to a Northwest Conference season and the NCAA tournament.
+Whitman men's soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.
 
 **Data**
 
