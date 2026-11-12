@@ -1,0 +1,214 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/sites/default/files/2023-03/Report%20Generator%20Help%20Guide.pdf
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: FPACITServiceDesk@usda.gov
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: 2026-04-01 to 2026-04-01
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 908: Alpine Meadows, WA
+#	SNOTEL 990: Beaver Pass, WA
+#	SNOTEL 352: Blewett Pass, WA
+#	SNOTEL 1080: Brown Top, WA
+#	SNOTEL 1107: Buckinghorse, WA
+#	SNOTEL 375: Bumping Ridge, WA
+#	SNOTEL 376: Bunchgrass Mdw, WA
+#	SNOTEL 942: Burnt Mountain, WA
+#	SNOTEL 1109: Calamity, WA
+#	SNOTEL 1085: Cayuse Pass, WA
+#	SNOTEL 418: Corral Pass, WA
+#	SNOTEL 420: Cougar Mountain, WA
+#	SNOTEL 1319: Decline Creek, WA
+#	SNOTEL 1345: Deer Pass, WA
+#	SNOTEL 943: Dungeness, WA
+#	SNOTEL 998: Easy Pass, WA
+#	SNOTEL 910: Elbow Lake, WA
+#	SNOTEL 478: Fish Lake, WA
+#	SNOTEL 1159: Gold Axe Camp, WA
+#	SNOTEL 1256: Gold Mountain, WA
+#	SNOTEL 502: Green Lake, WA
+#	SNOTEL 507: Grouse Camp, WA
+#	SNOTEL 515: Harts Pass, WA
+#	SNOTEL 928: Huckleberry Creek, WA
+#	SNOTEL 1338: Icicle Creek, WA
+#	SNOTEL 1129: Indian Rock, WA
+#	SNOTEL 553: June Lake, WA
+#	SNOTEL 591: Lone Pine, WA
+#	SNOTEL 599: Lost Horse, WA
+#	SNOTEL 606: Lyman Lake, WA
+#	SNOTEL 1069: Lynn Lake, WA
+#	SNOTEL 999: Marten Ridge, WA
+#	SNOTEL 897: Meadows Pass, WA
+#	SNOTEL 1011: MF Nooksack, WA
+#	SNOTEL 642: Morse Lake, WA
+#	SNOTEL 644: Moses Mtn, WA
+#	SNOTEL 648: Mount Crag, WA
+#	SNOTEL 898: Mount Gardner, WA
+#	SNOTEL 941: Mowich, WA
+#	SNOTEL 1126: Mt. Tebo, WA
+#	SNOTEL 1259: Muckamuck, WA
+#	SNOTEL 672: Olallie Meadows, WA
+#	SNOTEL 679: Paradise, WA
+#	SNOTEL 681: Park Creek Ridge, WA
+#	SNOTEL 1104: Pepper Creek, WA
+#	SNOTEL 692: Pigtail Peak, WA
+#	SNOTEL 1263: Pinto Rock, WA
+#	SNOTEL 699: Pope Ridge, WA
+#	SNOTEL 702: Potato Hill, WA
+#	SNOTEL 707: Quartz Peak, WA
+#	SNOTEL 711: Rainy Pass, WA
+#	SNOTEL 911: Rex River, WA
+#	SNOTEL 728: Salmon Meadows, WA
+#	SNOTEL 734: Sasse Ridge, WA
+#	SNOTEL 1231: Satus Pass, WA
+#	SNOTEL 1068: Sawmill Ridge, WA
+#	SNOTEL 1043: Sentinel Butte, WA
+#	SNOTEL 748: Sheep Canyon, WA
+#	SNOTEL 1257: Skate Creek, WA
+#	SNOTEL 912: Skookum Creek, WA
+#	SNOTEL 985: Sourdough Gulch, WA
+#	SNOTEL 776: Spencer Meadow, WA
+#	SNOTEL 777: Spirit Lake, WA
+#	SNOTEL 984: Spruce Springs, WA
+#	SNOTEL 788: Stampede Pass, WA
+#	SNOTEL 791: Stevens Pass, WA
+#	SNOTEL 804: Surprise Lakes, WA
+#	SNOTEL 975: Swamp Creek, WA
+#	SNOTEL 1012: Swift Creek, WA
+#	SNOTEL 817: Thunder Basin, WA
+#	SNOTEL 899: Tinkham Creek, WA
+#	SNOTEL 824: Touchet, WA
+#	SNOTEL 1171: Trinity, WA
+#	SNOTEL 832: Trough, WA
+#	SNOTEL 841: Upper Wheeler, WA
+#	SNOTEL 974: Waterhole, WA
+#	SNOTEL 909: Wells Creek, WA
+#	SNOTEL 863: White Pass E.S., WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type          Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Value               None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Water Equivalent  Median (1991-2020)  None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  K      Estimate            Estimate
+#  C      Correction          A different equation has been applied to the original sensor voltage
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+#  M      Missing             Value is missing
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: 2026-04-01 to 2026-04-01
+#
+# As of: Nov 12, 2026, 3:23:36 PM GMT-08:00
+#
+Date,Station Id,Station Name,Elevation (ft),Latitude,Longitude,Snow Water Equivalent (in) Start of Day Values,Median Snow Water Equivalent (1991-2020) (in) Start of Day Values
+2026-04-01,908,Alpine Meadows,3500,47.77957,-121.69847,32.3,52.6
+2026-04-01,990,Beaver Pass,3630,48.87930,-121.25550,14.8,42.8
+2026-04-01,352,Blewett Pass,4240,47.35037,-120.67960,0.0,12.6
+2026-04-01,1080,Brown Top,5850,48.92753,-121.19717,62.4,65.0
+2026-04-01,1107,Buckinghorse,4850,47.70860,-123.45747,27.4,57.2
+2026-04-01,375,Bumping Ridge,4600,46.81003,-121.33058,16.0,26.8
+2026-04-01,376,Bunchgrass Mdw,5020,48.68688,-117.17633,12.5,27.4
+2026-04-01,942,Burnt Mountain,4160,47.04440,-121.94032,6.7,17.2
+2026-04-01,1109,Calamity,2510,45.90362,-122.21633,0.0,0.5
+2026-04-01,1085,Cayuse Pass,5260,46.86956,-121.53434,28.1,62.2
+2026-04-01,418,Corral Pass,5810,47.01872,-121.46464,27.1,35.0
+2026-04-01,420,Cougar Mountain,3210,47.27666,-121.67138,4.0,13.0
+2026-04-01,1319,Decline Creek,4480,48.23594,-121.45500,22.3,
+2026-04-01,1345,Deer Pass,3360,48.33250,-121.72133,14.1,
+2026-04-01,943,Dungeness,3990,47.87220,-123.07879,0.4,6.8
+2026-04-01,998,Easy Pass,5280,48.85933,-121.43895,93.8,95.0
+2026-04-01,910,Elbow Lake,3050,48.69092,-121.90893,7.4,40.2
+2026-04-01,478,Fish Lake,3440,47.53565,-121.08553,13.2,28.8
+2026-04-01,1159,Gold Axe Camp,5380,48.95160,-118.98640,0.0,10.4
+2026-04-01,1256,Gold Mountain,4500,48.19253,-118.45715,0.0,
+2026-04-01,502,Green Lake,5920,46.54741,-121.17093,17.0,23.6
+2026-04-01,507,Grouse Camp,5390,47.28107,-120.48771,0.5,19.2
+2026-04-01,515,Harts Pass,6490,48.72047,-120.65860,57.6,44.0
+2026-04-01,928,Huckleberry Creek,2250,47.06565,-121.58778,0.0,0.0
+2026-04-01,1129,Indian Rock,5320,45.99077,-120.80768,0.1,
+2026-04-01,553,June Lake,3440,46.14778,-122.15413,14.9,40.2
+2026-04-01,591,Lone Pine,3940,46.27143,-121.96288,14.9,38.0
+2026-04-01,599,Lost Horse,5100,46.35754,-121.08090,3.5,18.0
+2026-04-01,606,Lyman Lake,5990,48.19798,-120.91678,48.0,59.9
+2026-04-01,1069,Lynn Lake,3900,47.20172,-121.77972,6.0,22.4
+2026-04-01,999,Marten Ridge,3520,48.76292,-121.69823,22.2,62.2
+2026-04-01,897,Meadows Pass,3230,47.28312,-121.47197,13.0,27.1
+2026-04-01,1011,MF Nooksack,4940,48.82441,-121.92947,31.1,62.8
+2026-04-01,642,Morse Lake,5400,46.90585,-121.48270,32.1,52.7
+2026-04-01,644,Moses Mtn,5470,48.36166,-119.08158,0.3,15.1
+2026-04-01,648,Mount Crag,3960,47.76370,-123.02600,13.6,30.9
+2026-04-01,898,Mount Gardner,2930,47.35768,-121.56812,1.2,12.4
+2026-04-01,941,Mowich,3170,46.92833,-121.95232,0.0,0.0
+2026-04-01,1126,Mt. Tebo,3380,47.46061,-123.41219,3.6,
+2026-04-01,1259,Muckamuck,4470,48.58526,-119.86624,0.0,
+2026-04-01,672,Olallie Meadows,4010,47.37406,-121.44213,24.0,52.3
+2026-04-01,679,Paradise,5150,46.78266,-121.74767,36.7,72.4
+2026-04-01,681,Park Creek Ridge,4610,48.44488,-120.91551,26.8,47.6
+2026-04-01,1104,Pepper Creek,2140,46.10242,-121.95555,0.0,3.9
+2026-04-01,692,Pigtail Peak,5800,46.62153,-121.38643,37.3,52.6
+2026-04-01,1263,Pinto Rock,4450,46.32318,-121.94219,15.2,
+2026-04-01,699,Pope Ridge,3590,47.99090,-120.56622,3.7,15.0
+2026-04-01,702,Potato Hill,4480,46.34970,-121.51415,17.6,30.1
+2026-04-01,707,Quartz Peak,4710,47.87927,-117.08938,4.2,19.1
+2026-04-01,711,Rainy Pass,4880,48.51865,-120.73580,33.5,37.4
+2026-04-01,911,Rex River,3810,47.30218,-121.60475,14.7,36.5
+2026-04-01,728,Salmon Meadows,4460,48.65518,-119.83830,0.0,9.6
+2026-04-01,734,Sasse Ridge,4340,47.38485,-121.06323,11.1,31.2
+2026-04-01,1231,Satus Pass,3960,45.98797,-120.67734,0.0,7.8
+2026-04-01,1068,Sawmill Ridge,4640,47.15992,-121.42172,9.9,37.8
+2026-04-01,1043,Sentinel Butte,4680,48.86133,-118.39843,0.0,8.8
+2026-04-01,748,Sheep Canyon,3990,46.19325,-122.25393,13.4,33.6
+2026-04-01,1257,Skate Creek,3770,46.64336,-121.83044,19.4,
+2026-04-01,912,Skookum Creek,3320,47.68433,-121.61007,21.6,35.3
+2026-04-01,985,Sourdough Gulch,3960,46.23713,-117.39435,0.0,0.0
+2026-04-01,776,Spencer Meadow,3400,46.17950,-121.92661,8.0,28.8
+2026-04-01,777,Spirit Lake,3520,46.26113,-122.17720,0.0,1.5
+2026-04-01,984,Spruce Springs,5690,46.18287,-117.54155,4.8,13.1
+2026-04-01,788,Stampede Pass,3850,47.27427,-121.34162,15.1,36.6
+2026-04-01,791,Stevens Pass,3940,47.74607,-121.09288,23.2,36.6
+2026-04-01,804,Surprise Lakes,4280,46.09497,-121.76345,22.0,45.9
+2026-04-01,975,Swamp Creek,3930,48.57142,-120.78267,10.9,17.3
+2026-04-01,1012,Swift Creek,4440,46.16380,-122.18402,27.2,68.5
+2026-04-01,817,Thunder Basin,4310,48.52753,-120.98950,24.7,29.8
+2026-04-01,899,Tinkham Creek,3000,47.33198,-121.46975,11.1,26.8
+2026-04-01,824,Touchet,5520,46.11868,-117.85050,10.8,29.2
+2026-04-01,1171,Trinity,2890,48.07471,-120.84989,20.0,29.7
+2026-04-01,832,Trough,5480,47.23328,-120.29412,3.3,10.3
+2026-04-01,841,Upper Wheeler,4330,47.28734,-120.37015,4.7,11.7
+2026-04-01,974,Waterhole,5010,47.94485,-123.42594,17.6,42.0
+2026-04-01,909,Wells Creek,4040,48.86610,-121.78976,16.5,34.8
+2026-04-01,863,White Pass E.S.,4440,46.64142,-121.38153,15.3,21.6
