@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 5 · Experimental
 
-**Sunday, April 5, 2026** · status: 💡 idea
+**Sunday, April 5, 2026** · status: ✅ done
 
 ## Tree rings
 

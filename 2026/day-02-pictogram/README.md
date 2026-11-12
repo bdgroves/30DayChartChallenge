@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 2 · Pictogram
 
-**Thursday, April 2, 2026** · status: 💡 idea
+**Thursday, April 2, 2026** · status: ✅ done
 
 ## Twenty shows
 

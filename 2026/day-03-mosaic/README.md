@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 3 · Mosaic
 
-**Friday, April 3, 2026** · status: 💡 idea
+**Friday, April 3, 2026** · status: ✅ done
 
 ## How the lights stay on
 

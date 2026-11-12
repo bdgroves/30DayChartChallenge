@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 4 · Slope
 
-**Saturday, April 4, 2026** · status: 💡 idea
+**Saturday, April 4, 2026** · status: ✅ done
 
 ## Thirty years of carbon
 

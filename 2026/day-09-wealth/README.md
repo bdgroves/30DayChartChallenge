@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 9 · Wealth
 
-**Thursday, April 9, 2026** · status: 💡 idea
+**Thursday, April 9, 2026** · status: ✅ done
 
 ## What a house costs
 

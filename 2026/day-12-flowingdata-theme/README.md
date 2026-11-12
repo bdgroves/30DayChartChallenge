@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 12 · FlowingData Theme
 
-**Sunday, April 12, 2026** · status: 💡 idea
+**Sunday, April 12, 2026** · status: ✅ done
 
 ## The 81 squares
 

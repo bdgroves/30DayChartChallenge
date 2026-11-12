@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 8 · Circular
 
-**Wednesday, April 8, 2026** · status: 💡 idea
+**Wednesday, April 8, 2026** · status: ✅ done
 
 ## A Lakewood year
 

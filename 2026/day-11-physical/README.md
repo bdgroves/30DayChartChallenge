@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 11 · Physical
 
-**Saturday, April 11, 2026** · status: 💡 idea
+**Saturday, April 11, 2026** · status: ✅ done
 
 ## How high the land stands
 

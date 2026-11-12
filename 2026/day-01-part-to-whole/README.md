@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 1 · Part-to-Whole
 
-**Wednesday, April 1, 2026** · status: 💡 idea
+**Wednesday, April 1, 2026** · status: ✅ done
 
 ## 1,190 caches, by kind
 

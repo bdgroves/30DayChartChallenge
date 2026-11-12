@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 6 · RSF Data
 
-**Monday, April 6, 2026** · status: 💡 idea
+**Monday, April 6, 2026** · status: ✅ done
 
 ## Room to report
 

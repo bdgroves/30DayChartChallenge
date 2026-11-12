@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 10 · Pop Culture
 
-**Friday, April 10, 2026** · status: 💡 idea
+**Friday, April 10, 2026** · status: ✅ done
 
 ## How long the encore lasts
 

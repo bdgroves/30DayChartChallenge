@@ -1,20 +1,20 @@
 <!-- table:start -->
-**0 of 30 done** · 💡 idea 30 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 0 · 📣 posted 0
+**12 of 30 done** · 💡 idea 18 · 📦 data in hand 0 · ✏️ draft 0 · ✅ done 12 · 📣 posted 0
 
 | Day | Date | Theme | Chart | Status |
 |---:|---|---|---|---|
-| 1 | Wed Apr 1 | Part-to-Whole | [1,190 caches, by kind](day-01-part-to-whole/) | 💡 idea |
-| 2 | Thu Apr 2 | Pictogram | [Twenty shows](day-02-pictogram/) | 💡 idea |
-| 3 | Fri Apr 3 | Mosaic | [How the lights stay on](day-03-mosaic/) | 💡 idea |
-| 4 | Sat Apr 4 | Slope | [Thirty years of carbon](day-04-slope/) | 💡 idea |
-| 5 | Sun Apr 5 | Experimental | [Tree rings](day-05-experimental/) | 💡 idea |
-| 6 | Mon Apr 6 | RSF Data | [Room to report](day-06-rsf-data/) | 💡 idea |
-| 7 | Tue Apr 7 | Multiscale | [Shaken, mostly gently](day-07-multiscale/) | 💡 idea |
-| 8 | Wed Apr 8 | Circular | [A Lakewood year](day-08-circular/) | 💡 idea |
-| 9 | Thu Apr 9 | Wealth | [What a house costs](day-09-wealth/) | 💡 idea |
-| 10 | Fri Apr 10 | Pop Culture | [How long the encore lasts](day-10-pop-culture/) | 💡 idea |
-| 11 | Sat Apr 11 | Physical | [How high the land stands](day-11-physical/) | 💡 idea |
-| 12 | Sun Apr 12 | FlowingData Theme | [The 81 squares](day-12-flowingdata-theme/) | 💡 idea |
+| 1 | Wed Apr 1 | Part-to-Whole | [1,190 caches, by kind](day-01-part-to-whole/) | ✅ done |
+| 2 | Thu Apr 2 | Pictogram | [Twenty shows](day-02-pictogram/) | ✅ done |
+| 3 | Fri Apr 3 | Mosaic | [How the lights stay on](day-03-mosaic/) | ✅ done |
+| 4 | Sat Apr 4 | Slope | [Thirty years of carbon](day-04-slope/) | ✅ done |
+| 5 | Sun Apr 5 | Experimental | [Tree rings](day-05-experimental/) | ✅ done |
+| 6 | Mon Apr 6 | RSF Data | [Room to report](day-06-rsf-data/) | ✅ done |
+| 7 | Tue Apr 7 | Multiscale | [Shaken, mostly gently](day-07-multiscale/) | ✅ done |
+| 8 | Wed Apr 8 | Circular | [A Lakewood year](day-08-circular/) | ✅ done |
+| 9 | Thu Apr 9 | Wealth | [What a house costs](day-09-wealth/) | ✅ done |
+| 10 | Fri Apr 10 | Pop Culture | [How long the encore lasts](day-10-pop-culture/) | ✅ done |
+| 11 | Sat Apr 11 | Physical | [How high the land stands](day-11-physical/) | ✅ done |
+| 12 | Sun Apr 12 | FlowingData Theme | [The 81 squares](day-12-flowingdata-theme/) | ✅ done |
 | 13 | Mon Apr 13 | Ecosystems | [Who eats whom in Lake Tahoe](day-13-ecosystems/) | 💡 idea |
 | 14 | Tue Apr 14 | Trade | [Where Washington ships](day-14-trade/) | 💡 idea |
 | 15 | Wed Apr 15 | Correlation | [Higher means snowier](day-15-correlation/) | 💡 idea |

@@ -1,7 +1,7 @@
 <!-- plan:start (generated from days.yml; edit there) -->
 # Day 7 · Multiscale
 
-**Tuesday, April 7, 2026** · status: 💡 idea
+**Tuesday, April 7, 2026** · status: ✅ done
 
 ## Shaken, mostly gently
 
