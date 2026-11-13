@@ -1,4 +1,4 @@
-"""Day 6 · RSF Data: Reporters Without Borders' 2026 World Press Freedom Index for the countries I've
+"""Day 6 · RSF Data: Reporters Without Borders' 2025 World Press Freedom Index for the countries I've
 visited, with each one's change since 2025, over the five RSF bands."""
 import sys
 from pathlib import Path
@@ -9,9 +9,10 @@ import numpy as np
 import pandas as pd
 from places import VISITED
 
-r = pd.read_csv(HERE / "data" / "rsf_2026.csv", sep=";", encoding="latin-1")
+YEAR = 2025          # the index in hand when the 2026 challenge ran (April 2026)
+r = pd.read_csv(HERE / "data" / f"rsf_{YEAR}.csv", sep=";", encoding="latin-1")
 num = lambda s: pd.to_numeric(s.astype(str).str.replace(",", "."), errors="coerce")
-r["score"], r["prev"] = num(r["Score 2026"]), num(r["Score N-1"])
+r["score"], r["prev"] = num(r[f"Score {YEAR}"]), num(r["Score N-1"])
 v = r[r["ISO"].isin(VISITED)].sort_values("score").reset_index(drop=True)
 v["name"] = v["ISO"].map(VISITED).replace({"Dominican Republic": "Dominican Rep."})
 missing = sorted(VISITED[i] for i in set(VISITED) - set(r["ISO"]))
@@ -39,14 +40,14 @@ for i, row in v.iterrows():
     ax.text(101, i, f"{row['score']:.1f}  #{row['Rank']}", ha="left", va="center", family=dcc.MONO, size=7, color=dcc.ASH)
 ax.set_xlim(0, 100); ax.set_ylim(-0.8, n + 2.4)
 ax.set_yticks([]); ax.spines["left"].set_visible(False)
-ax.set_xlabel("RSF score, 2026 (100 = complete freedom)", family=dcc.TEXT, size=8.5)
+ax.set_xlabel(f"RSF score, {YEAR} (100 = complete freedom)", family=dcc.TEXT, size=8.5)
 falls = (v["score"] < v["prev"]).sum()
 us = v.set_index("ISO").loc["USA"]
-dcc.frame(fig, 6, subtitle=(f"Press freedom in {n} of the countries I've visited, from Reporters Without Borders' 2026 index.\n"
-                            f"Arrows run from the 2025 score; {falls} countries slipped. The United States is #{us['Rank']} of 180, "
+dcc.frame(fig, 6, subtitle=(f"Press freedom in {n} of the countries I've visited, from Reporters Without Borders' {YEAR} index.\n"
+                            f"Arrows run from the {YEAR - 1} score; {falls} countries slipped. The United States is #{us['Rank']} of 180, "
                             f"\"problematic\"."),
-          source="RSF World Press Freedom Index 2026 (rsf.org/en/index)",
+          source=f"RSF World Press Freedom Index {YEAR} (rsf.org/en/index)",
           note=f"Not in the index: {', '.join(missing)}.")
-dcc.save(fig, 6, alt=(f"Dot plot of RSF 2026 press freedom scores for {n} countries Brooks has visited, lowest {v.iloc[0]['name']} "
+dcc.save(fig, 6, alt=(f"Dot plot of RSF {YEAR} press freedom scores for {n} countries Brooks has visited, lowest {v.iloc[0]['name']} "
                       f"{v.iloc[0]['score']:.1f}, highest {v.iloc[-1]['name']} {v.iloc[-1]['score']:.1f}; the United States "
                       f"{us['score']:.1f}, rank {us['Rank']}."))

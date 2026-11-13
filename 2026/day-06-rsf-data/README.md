@@ -5,11 +5,11 @@
 
 ## Room to report
 
-Reporters Without Borders' 2026 press freedom scores for the countries I've visited, against the rest of the world.
+Reporters Without Borders' 2025 press freedom scores for the countries I've visited, against the rest of the world.
 
 **Data**
 
-- [RSF World Press Freedom Index 2026](https://rsf.org/en/index)
+- [RSF World Press Freedom Index 2025](https://rsf.org/en/index)
 
 **Tools:** Python, matplotlib
 

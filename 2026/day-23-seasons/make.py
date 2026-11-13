@@ -12,6 +12,7 @@ d.columns = ["date", "depth", "swe"]
 d["wy"] = d["date"].dt.year + (d["date"].dt.month >= 10)
 d["day"] = (d["date"] - pd.to_datetime((d["wy"] - 1).astype(str) + "-10-01")).dt.days
 d.loc[(d["depth"] < 0) | (d["depth"] > 400), "depth"] = np.nan
+d = d[d["wy"] <= 2025]
 good = d.groupby("wy")["depth"].apply(lambda s: s.notna().mean() > 0.8)
 years = [y for y, ok in good.items() if ok]
 fig, ax = dcc.figure("wide", box=(0.07, 0.15, 0.62, 0.60))

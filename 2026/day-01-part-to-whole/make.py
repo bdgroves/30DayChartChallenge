@@ -1,4 +1,4 @@
-"""Day 1 · Part-to-Whole: 1,190 geocache finds as a waffle, one square each, by cache type."""
+"""Day 1 · Part-to-Whole: geocache finds through 2025 as a waffle, one square each, by cache type."""
 import sys
 from pathlib import Path
 HERE = Path(__file__).resolve().parent
@@ -8,6 +8,7 @@ import pandas as pd
 from matplotlib.patches import Rectangle
 
 df = pd.read_csv(HERE / "data" / "finds.csv")
+df = df[df["found"] <= "2025-12-31"]            # the 2026 challenge ran in April 2026: data through 2025
 counts = df["type"].value_counts()
 NAMES = {"Unknown Cache": "Mystery cache", "Multi-cache": "Multi-cache", "Traditional Cache": "Traditional",
          "Virtual Cache": "Virtual", "Earthcache": "EarthCache"}
@@ -16,8 +17,9 @@ groups = [(NAMES[t], int(counts[t])) for t in main] + [("Everything else", int(c
 colors = [dcc.LAKE, dcc.GOLD, dcc.SAGE, dcc.LAVA, "#8a5a83", dcc.INK]
 rest = counts.drop(main)
 
-COLS, ROWS = 35, 34
-assert COLS * ROWS == len(df) == sum(n for _, n in groups)
+COLS = 35
+ROWS = -(-len(df) // COLS)
+assert len(df) == sum(n for _, n in groups)
 fig, ax = dcc.figure("portrait", axes=False, box=(0.07, 0.25, 0.86, 0.55))
 cells = [c for (_, n), c in zip(groups, colors) for _ in range(n)]
 for i, c in enumerate(cells):

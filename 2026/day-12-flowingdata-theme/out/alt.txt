@@ -1,1 +1,1 @@
-A 9 by 9 grid of geocache difficulty and terrain ratings with counts; 61 of 81 cells are filled, the most at difficulty 1.5, terrain 1.5 with 282 finds.
+A 9 by 9 grid of geocache difficulty and terrain ratings with counts; 61 of 81 cells are filled, the most at difficulty 1.5, terrain 1.5 with 274 finds.

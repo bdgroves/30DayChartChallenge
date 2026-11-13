@@ -5,7 +5,7 @@
 
 ## Tree rings
 
-Twenty-five years of geocaching drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.
+Twenty-five years of geocaching, 2001 to 2025, drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.
 
 **Data**
 

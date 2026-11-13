@@ -9,7 +9,7 @@ import pandas as pd
 
 d = pd.read_csv(HERE / "data" / "N_09_extent.csv", skipinitialspace=True)
 d.columns = [c.strip() for c in d.columns]
-d = d[d["extent"] > 0]
+d = d[(d["extent"] > 0) & (d["year"] <= 2025)]
 b, a = np.polyfit(d["year"], d["extent"], 1)
 fig, ax = dcc.figure("wide", box=(0.08, 0.15, 0.86, 0.60))
 dcc.style_axes(ax, grid="y")

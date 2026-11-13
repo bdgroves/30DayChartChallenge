@@ -14,7 +14,7 @@ days:
   # Comparisons
   - day: 1
     theme: Part-to-Whole
-    title: 1,190 caches, by kind
+    title: 1,165 caches, by kind
     pitch: Every geocache I've found since 2001, one square each, sorted by cache type. Mostly the classic film-canister kind, with a long tail of the odd ones.
     data:
     - name: My geocache finds (brooksgroves.com data)
@@ -63,7 +63,7 @@ days:
   - day: 5
     theme: Experimental
     title: Tree rings
-    pitch: 'Twenty-five years of geocaching drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.'
+    pitch: 'Twenty-five years of geocaching, 2001 to 2025, drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.'
     data:
     - name: My geocache finds (brooksgroves.com data)
       url: https://brooksgroves.com/maps.html
@@ -75,9 +75,9 @@ days:
   - day: 6
     theme: RSF Data
     title: Room to report
-    pitch: Reporters Without Borders' 2026 press freedom scores for the countries I've visited, against the rest of the world.
+    pitch: Reporters Without Borders' 2025 press freedom scores for the countries I've visited, against the rest of the world.
     data:
-    - name: RSF World Press Freedom Index 2026
+    - name: RSF World Press Freedom Index 2025
       url: https://rsf.org/en/index
     tools:
     - Python
@@ -113,7 +113,7 @@ days:
   - day: 9
     theme: Wealth
     title: What a house costs
-    pitch: Typical home values in Washington's 39 counties, from Garfield to San Juan, ten years apart.
+    pitch: "Typical home values in Washington's 39 counties, from Garfield to San Juan, as yearly averages for 2016 and 2025."
     data:
     - name: Zillow Home Value Index (ZHVI)
       url: https://www.zillow.com/research/data/
@@ -340,10 +340,10 @@ days:
   - day: 27
     theme: Animation
     title: A season of Blues
-    pitch: 'Whitman men''s soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.'
+    pitch: 'Whitman men''s soccer in 2025, game by game: a Northwest Conference title, one loss all year, and that one in the NCAA first round.'
     data:
     - name: Whitman Athletics stats
-      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2026
+      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2025
     tools:
     - Python
     - matplotlib
@@ -351,13 +351,13 @@ days:
 
   - day: 28
     theme: Modeling
-    title: How far can Whitman go?
-    pitch: 'A small model of the 2026 NCAA Division III tournament from Whitman''s point of view: ten thousand simulated runs and how often each round is reached.'
+    title: How far could Whitman go?
+    pitch: 'A small model of the 2025 NCAA Division III tournament from Whitman''s point of view, built on its regular season: a million simulated runs, how often each round is reached, and what actually happened.'
     data:
     - name: Whitman Athletics stats
-      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2026
+      url: https://athletics.whitman.edu/sports/mens-soccer/stats/2025
     - name: NCAA DIII bracket
-      url: https://www.ncaa.com/brackets/soccer-men/d3/2026
+      url: https://www.ncaa.com/brackets/soccer-men/d3/2025
     tools:
     - Python
     - matplotlib

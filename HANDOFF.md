@@ -20,7 +20,9 @@ For a new Claude chat picking this up. `git pull --rebase` first.
 - Substitutions, honestly labeled on the charts: day 14 uses UN Comtrade (Census API now needs a key); day 30 uses UN WPP
   2024 via the wpp2024 R package, catalogued in GHDx (IHME's own GBD files need a login); day 19 is US electricity because
   Plate Hunter's WA data lists 30 plates at a placeholder year of 1996.
-- Day 27 also writes `out/animation.gif`. Day 28 is a toy model written before Whitman's first NCAA game (Nov 14).
+- Data stops at the end of 2025, as if made in April 2026: geocaches, quakes, sea ice, Mono Lake and Paradise are cut at 2025;
+  RSF is the 2025 index; Zillow compares 2016 and 2025 yearly averages; Whitman is the 2025 season (fetched by day 27's fetch.py).
+- Day 27 also writes `out/animation.gif`. Day 28 models the 2025 NCAA tournament from the regular season and marks the real result.
 
 ## To do
 - [ ] When the prompts are out: `days.template.yml` → `days.yml` with the prompts, then plan with Brooks.

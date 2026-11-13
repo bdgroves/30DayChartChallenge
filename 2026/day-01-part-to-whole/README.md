@@ -3,7 +3,7 @@
 
 **Wednesday, April 1, 2026** · status: ✅ done
 
-## 1,190 caches, by kind
+## 1,165 caches, by kind
 
 Every geocache I've found since 2001, one square each, sorted by cache type. Mostly the classic film-canister kind, with a long tail of the odd ones.
 
@@ -17,7 +17,7 @@ Every geocache I've found since 2001, one square each, sorted by cache type. Mos
 
 ```
 Day 1 of #30DayChartChallenge · Part-to-Whole
-1,190 caches, by kind
+1,165 caches, by kind
 https://brooksgroves.com/30DayChartChallenge/2026/share/day-01.html
 ```
 

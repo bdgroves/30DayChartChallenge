@@ -13,7 +13,7 @@ from shapely.geometry import shape
 
 q = pd.read_csv(HERE / "data" / "quakes.csv.gz", parse_dates=["time"])
 wa = shape(json.load(open(HERE / "data" / "wa.geojson"))["features"][0]["geometry"])
-q = q[contains_xy(wa, q["longitude"].values, q["latitude"].values) & (q["mag"] >= -1)]
+q = q[contains_xy(wa, q["longitude"].values, q["latitude"].values) & (q["mag"] >= -1) & (q["time"].dt.year <= 2025)]
 y0, y1 = q["time"].dt.year.min(), q["time"].dt.year.max()
 
 edges = np.arange(-1.0, 7.01, 0.2)

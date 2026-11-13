@@ -1,1 +1,1 @@
-A histogram of 104,043 Washington earthquakes since 1970 on a log scale. Counts peak near magnitude 1 and fall about 8-fold per magnitude step; the largest is the 2001 Nisqually M6.8.
+A histogram of 101,841 Washington earthquakes since 1970 on a log scale. Counts peak near magnitude 1 and fall about 8-fold per magnitude step; the largest is the 2001 Nisqually M6.8.

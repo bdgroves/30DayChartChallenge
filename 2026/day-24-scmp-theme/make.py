@@ -18,7 +18,7 @@ def daylight(lat, days):
     return 2 * np.degrees(np.arccos(np.clip(cos_h, -1, 1))) / 15
 
 days = np.arange(1, 366)
-dates = pd.date_range("2026-01-01", periods=365)
+dates = pd.date_range("2025-01-01", periods=365)
 lw, hk = daylight(47.17, days), daylight(22.32, days)
 YELLOW, BLACK, TEAL = "#ffc20e", "#111111", "#0b6e78"
 fig, ax = dcc.figure("wide", box=(0.07, 0.15, 0.86, 0.60))

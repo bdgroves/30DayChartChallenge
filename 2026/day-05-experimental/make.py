@@ -10,6 +10,7 @@ import numpy as np
 import pandas as pd
 
 df = pd.read_csv(HERE.parent / "day-01-part-to-whole" / "data" / "finds.csv", parse_dates=["found"])
+df = df[df["found"] <= "2025-12-31"]            # data through 2025, as of the April 2026 challenge
 y0, y1 = df["found"].dt.year.min(), df["found"].dt.year.max()
 years = np.arange(y0, y1 + 1)
 rng = np.random.default_rng(7)

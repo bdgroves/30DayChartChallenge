@@ -3,7 +3,7 @@
 
 | Day | Date | Theme | Chart | Status |
 |---:|---|---|---|---|
-| 1 | Wed Apr 1 | Part-to-Whole | [1,190 caches, by kind](day-01-part-to-whole/) | ✅ done |
+| 1 | Wed Apr 1 | Part-to-Whole | [1,165 caches, by kind](day-01-part-to-whole/) | ✅ done |
 | 2 | Thu Apr 2 | Pictogram | [Twenty shows](day-02-pictogram/) | ✅ done |
 | 3 | Fri Apr 3 | Mosaic | [How the lights stay on](day-03-mosaic/) | ✅ done |
 | 4 | Sat Apr 4 | Slope | [Thirty years of carbon](day-04-slope/) | ✅ done |
@@ -30,7 +30,7 @@
 | 25 | Sat Apr 25 | Space | [Weighing other worlds](day-25-space/) | ✅ done |
 | 26 | Sun Apr 26 | Trend | [Is Lakewood warming?](day-26-trend/) | ✅ done |
 | 27 | Mon Apr 27 | Animation | [A season of Blues](day-27-animation/) | ✅ done |
-| 28 | Tue Apr 28 | Modeling | [How far can Whitman go?](day-28-modeling/) | ✅ done |
+| 28 | Tue Apr 28 | Modeling | [How far could Whitman go?](day-28-modeling/) | ✅ done |
 | 29 | Wed Apr 29 | Monochrome | [A normal year, in blue](day-29-monochrome/) | ✅ done |
 | 30 | Thu Apr 30 | GHDx Data | [How long we'll live, give or take](day-30-ghdx-data/) | ✅ done |
 <!-- table:end -->

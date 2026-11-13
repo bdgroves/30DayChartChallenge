@@ -17,7 +17,7 @@
    "date": "2026-04-01",
    "weekday": "Wed",
    "theme": "Part-to-Whole",
-   "title": "1,190 caches, by kind",
+   "title": "1,165 caches, by kind",
    "pitch": "Every geocache I've found since 2001, one square each, sorted by cache type. Mostly the classic film-canister kind, with a long tail of the odd ones.",
    "status": "done",
    "tools": [
@@ -37,12 +37,12 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-01-part-to-whole",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-01-part-to-whole/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-01-part-to-whole/out/thumb.jpg",
-   "alt": "A waffle chart of 1,190 squares, one per geocache found. Traditional: 996; Virtual: 64; EarthCache: 53; Multi-cache: 39; Mystery cache: 20; Everything else: 18.",
+   "alt": "A waffle chart of 1,165 squares, one per geocache found. Traditional: 976; Virtual: 61; EarthCache: 52; Multi-cache: 38; Mystery cache: 20; Everything else: 18.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-01.html",
    "hashtags": "",
-   "post_text": "Day 1 of #30DayChartChallenge · Part-to-Whole\n1,190 caches, by kind"
+   "post_text": "Day 1 of #30DayChartChallenge · Part-to-Whole\n1,165 caches, by kind"
   },
   {
    "day": 2,
@@ -146,7 +146,7 @@
    "weekday": "Sun",
    "theme": "Experimental",
    "title": "Tree rings",
-   "pitch": "Twenty-five years of geocaching drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.",
+   "pitch": "Twenty-five years of geocaching, 2001 to 2025, drawn as the rings of a tree: one ring a year, one mark a find, the day of the year going round.",
    "status": "done",
    "tools": [
     "Python",
@@ -165,7 +165,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-05-experimental",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-05-experimental/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-05-experimental/out/thumb.jpg",
-   "alt": "Tree rings, one per year from 2001 to 2026, with 1,190 small marks for geocache finds placed by day of year. The busiest year was 2017 with 200 finds.",
+   "alt": "Tree rings, one per year from 2001 to 2025, with 1,165 small marks for geocache finds placed by day of year. The busiest year was 2017 with 200 finds.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-05.html",
@@ -178,18 +178,18 @@
    "weekday": "Mon",
    "theme": "RSF Data",
    "title": "Room to report",
-   "pitch": "Reporters Without Borders' 2026 press freedom scores for the countries I've visited, against the rest of the world.",
+   "pitch": "Reporters Without Borders' 2025 press freedom scores for the countries I've visited, against the rest of the world.",
    "status": "done",
    "tools": [
     "Python",
     "matplotlib"
    ],
    "data": [
-    "RSF World Press Freedom Index 2026"
+    "RSF World Press Freedom Index 2025"
    ],
    "data_links": [
     {
-     "name": "RSF World Press Freedom Index 2026",
+     "name": "RSF World Press Freedom Index 2025",
      "url": "https://rsf.org/en/index"
     }
    ],
@@ -197,7 +197,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-06-rsf-data",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-06-rsf-data/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-06-rsf-data/out/thumb.jpg",
-   "alt": "Dot plot of RSF 2026 press freedom scores for 27 countries Brooks has visited, lowest Ethiopia 34.7, highest Netherlands 88.9; the United States 62.6, rank 64.",
+   "alt": "Dot plot of RSF 2025 press freedom scores for 27 countries Brooks has visited, lowest Ethiopia 36.9, highest Netherlands 88.6; the United States 65.5, rank 57.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-06.html",
@@ -229,7 +229,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-07-multiscale",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-07-multiscale/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-07-multiscale/out/thumb.jpg",
-   "alt": "A histogram of 104,043 Washington earthquakes since 1970 on a log scale. Counts peak near magnitude 1 and fall about 8-fold per magnitude step; the largest is the 2001 Nisqually M6.8.",
+   "alt": "A histogram of 101,841 Washington earthquakes since 1970 on a log scale. Counts peak near magnitude 1 and fall about 8-fold per magnitude step; the largest is the 2001 Nisqually M6.8.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-07.html",
@@ -274,7 +274,7 @@
    "weekday": "Thu",
    "theme": "Wealth",
    "title": "What a house costs",
-   "pitch": "Typical home values in Washington's 39 counties, from Garfield to San Juan, ten years apart.",
+   "pitch": "Typical home values in Washington's 39 counties, from Garfield to San Juan, as yearly averages for 2016 and 2025.",
    "status": "done",
    "tools": [
     "Python",
@@ -293,7 +293,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-09-wealth",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-09-wealth/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-09-wealth/out/thumb.jpg",
-   "alt": "A dumbbell chart of 39 Washington counties' typical home values in 2016 and 2026. San Juan is highest at $897,256, Garfield lowest at $241,396; Pierce County is $559,277.",
+   "alt": "A dumbbell chart of 39 Washington counties' typical home values in 2016 and 2025. San Juan is highest at $896,078, Garfield lowest at $220,728; Pierce County is $562,231.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-09.html",
@@ -389,7 +389,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-12-flowingdata-theme",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-12-flowingdata-theme/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-12-flowingdata-theme/out/thumb.jpg",
-   "alt": "A 9 by 9 grid of geocache difficulty and terrain ratings with counts; 61 of 81 cells are filled, the most at difficulty 1.5, terrain 1.5 with 282 finds.",
+   "alt": "A 9 by 9 grid of geocache difficulty and terrain ratings with counts; 61 of 81 cells are filled, the most at difficulty 1.5, terrain 1.5 with 274 finds.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-12.html",
@@ -655,7 +655,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-20-global-change",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-20-global-change/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-20-global-change/out/thumb.jpg",
-   "alt": "Bars of September Arctic sea-ice extent from 1979 to 2026, falling from about 7.0 to 4.8 million km², with a record low of 3.57 in 2012.",
+   "alt": "Bars of September Arctic sea-ice extent from 1979 to 2025, falling from about 7.0 to 4.8 million km², with a record low of 3.57 in 2012.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-20.html",
@@ -687,7 +687,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-21-historical",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-21-historical/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-21-historical/out/thumb.jpg",
-   "alt": "A line of Mono Lake's October 1 level from 1850 to 2026: about 6,417 ft in 1941, a low of 6,372.3 ft in 1981, and 6,382.0 ft in 2026, below the 6,392 ft target.",
+   "alt": "A line of Mono Lake's October 1 level from 1850 to 2025: about 6,417 ft in 1941, a low of 6,372.3 ft in 1981, and 6,382.4 ft in 2025, below the 6,392 ft target.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-21.html",
@@ -752,7 +752,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-23-seasons",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-23-seasons/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-23-seasons/out/thumb.jpg",
-   "alt": "Lines of daily snow depth at Paradise for 20 winters; the deepest peaked at 228 inches in 2007–2008, the thinnest at 66 in 2014–2015.",
+   "alt": "Lines of daily snow depth at Paradise for 19 winters; the deepest peaked at 228 inches in 2007–2008, the thinnest at 66 in 2014–2015.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-23.html",
@@ -816,7 +816,7 @@
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-25-space",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-25-space/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-25-space/out/thumb.jpg",
-   "alt": "A log-log scatter of 1,582 exoplanets' mass against radius, each with error bars; 1,057 have masses known to within 20%. The solar system's planets are marked in red.",
+   "alt": "A log-log scatter of 1,490 exoplanets' mass against radius, each with error bars; 988 have masses known to within 20%. The solar system's planets are marked in red.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-25.html",
@@ -861,7 +861,7 @@
    "weekday": "Mon",
    "theme": "Animation",
    "title": "A season of Blues",
-   "pitch": "Whitman men's soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.",
+   "pitch": "Whitman men's soccer in 2025, game by game: a Northwest Conference title, one loss all year, and that one in the NCAA first round.",
    "status": "done",
    "tools": [
     "Python",
@@ -873,14 +873,14 @@
    "data_links": [
     {
      "name": "Whitman Athletics stats",
-     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2026"
+     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2025"
     }
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-27-animation",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-27-animation/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-27-animation/out/thumb.jpg",
-   "alt": "Bars of goal difference for Whitman's 20 games in 2026 with a rising running total to +24; record 14-3-3, goals 40-16.",
+   "alt": "Bars of goal difference for Whitman's 21 games in 2025 with a rising running total to +27; record 14-1-6, goals 51-24.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-27.html",
@@ -892,8 +892,8 @@
    "date": "2026-04-28",
    "weekday": "Tue",
    "theme": "Modeling",
-   "title": "How far can Whitman go?",
-   "pitch": "A small model of the 2026 NCAA Division III tournament from Whitman's point of view: ten thousand simulated runs and how often each round is reached.",
+   "title": "How far could Whitman go?",
+   "pitch": "A small model of the 2025 NCAA Division III tournament from Whitman's point of view, built on its regular season: a million simulated runs, how often each round is reached, and what actually happened.",
    "status": "done",
    "tools": [
     "Python",
@@ -906,23 +906,23 @@
    "data_links": [
     {
      "name": "Whitman Athletics stats",
-     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2026"
+     "url": "https://athletics.whitman.edu/sports/mens-soccer/stats/2025"
     },
     {
      "name": "NCAA DIII bracket",
-     "url": "https://www.ncaa.com/brackets/soccer-men/d3/2026"
+     "url": "https://www.ncaa.com/brackets/soccer-men/d3/2025"
     }
    ],
    "deeper": [],
    "folder": "https://github.com/bdgroves/30DayChartChallenge/tree/main/2026/day-28-modeling",
    "image": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-28-modeling/out/chart.png",
    "thumb": "https://raw.githubusercontent.com/bdgroves/30DayChartChallenge/main/2026/day-28-modeling/out/thumb.jpg",
-   "alt": "A bar chart of modeled chances for Whitman in the 2026 NCAA Division III tournament: win round 1 63%; win round 2 36%; win round 3 18%; reach final four 9%; reach final 4%; win it all 2%, with 80% whiskers.",
+   "alt": "A bar chart of modeled chances for Whitman in the 2025 NCAA Division III tournament: win round 1 63%; win round 2 36%; win round 3 17%; reach final four 8%; reach final 4%; win it all 2%, with 80% whiskers.",
    "post": null,
    "link": null,
    "share": "https://brooksgroves.com/30DayChartChallenge/2026/share/day-28.html",
    "hashtags": "",
-   "post_text": "Day 28 of #30DayChartChallenge · Modeling\nHow far can Whitman go?"
+   "post_text": "Day 28 of #30DayChartChallenge · Modeling\nHow far could Whitman go?"
   },
   {
    "day": 29,

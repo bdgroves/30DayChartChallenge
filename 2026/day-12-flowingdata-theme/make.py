@@ -10,6 +10,7 @@ import pandas as pd
 from matplotlib.patches import Rectangle
 
 df = pd.read_csv(HERE.parent / "day-01-part-to-whole" / "data" / "finds.csv")
+df = df[df["found"] <= "2025-12-31"]            # data through 2025, as of the April 2026 challenge
 levels = np.arange(1, 5.01, 0.5)
 grid = df.groupby(["difficulty", "terrain"]).size().unstack(fill_value=0).reindex(index=levels, columns=levels, fill_value=0)
 filled = int((grid > 0).sum().sum())

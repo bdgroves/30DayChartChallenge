@@ -13,7 +13,7 @@ p = pd.read_csv(HERE / "data" / "exoplanets.csv")
 p = p[(p["pl_bmassprov"] == "Mass") & p["pl_bmasseerr1"].notna() & p["pl_radeerr1"].notna()].copy()
 p["mrel"] = (p["pl_bmasseerr1"] + p["pl_bmasseerr2"].abs()) / 2 / p["pl_bmasse"]
 p["rrel"] = (p["pl_radeerr1"] + p["pl_radeerr2"].abs()) / 2 / p["pl_rade"]
-p = p[(p["pl_bmasse"] > 0) & (p["pl_rade"] > 0)]
+p = p[(p["pl_bmasse"] > 0) & (p["pl_rade"] > 0) & (p["disc_year"] <= 2025)]
 sure = p["mrel"] <= 0.2
 fig, ax = dcc.figure("wide", box=(0.08, 0.17, 0.64, 0.58))
 dcc.style_axes(ax, grid="both")

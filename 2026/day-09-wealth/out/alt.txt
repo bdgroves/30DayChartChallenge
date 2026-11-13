@@ -1,1 +1,1 @@
-A dumbbell chart of 39 Washington counties' typical home values in 2016 and 2026. San Juan is highest at $897,256, Garfield lowest at $241,396; Pierce County is $559,277.
+A dumbbell chart of 39 Washington counties' typical home values in 2016 and 2025. San Juan is highest at $896,078, Garfield lowest at $220,728; Pierce County is $562,231.

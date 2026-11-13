@@ -5,11 +5,11 @@
 
 ## A season of Blues
 
-Whitman men's soccer in 2026, game by game: the running goal difference through the Northwest Conference season to an NCAA tournament place.
+Whitman men's soccer in 2025, game by game: a Northwest Conference title, one loss all year, and that one in the NCAA first round.
 
 **Data**
 
-- [Whitman Athletics stats](https://athletics.whitman.edu/sports/mens-soccer/stats/2026)
+- [Whitman Athletics stats](https://athletics.whitman.edu/sports/mens-soccer/stats/2025)
 
 **Tools:** Python, matplotlib
 

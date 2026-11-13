@@ -8,6 +8,7 @@ import dcc
 import pandas as pd
 
 d = pd.read_csv(HERE / "data" / "mono_lake_oct1.csv")
+d = d[d["year"] <= 2025]
 fig, ax = dcc.figure("wide", box=(0.08, 0.15, 0.86, 0.60))
 dcc.style_axes(ax, grid="y")
 ax.fill_between(d["year"], 6360, d["level_ft"], color=dcc.LAKE, alpha=0.18, lw=0)

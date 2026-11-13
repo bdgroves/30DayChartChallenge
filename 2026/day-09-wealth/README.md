@@ -5,7 +5,7 @@
 
 ## What a house costs
 
-Typical home values in Washington's 39 counties, from Garfield to San Juan, ten years apart.
+Typical home values in Washington's 39 counties, from Garfield to San Juan, as yearly averages for 2016 and 2025.
 
 **Data**
 
